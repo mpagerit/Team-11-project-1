@@ -24,7 +24,7 @@ Ghostbusters,1984-06-08,1984,6,622621802,242212467,Comedy,No,0.0,23,0.0,Nominate
 Beverly Hills Cop,1984-12-05,1984,12,617514964,234760478,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 4 wins & 4 nominations.,66.0,7.3,82%,R,Martin Brest,105 min,Paramount Pictures,USA
 Home Alone,1990-11-16,1990,11,617450073,285761243,Comedy,No,0.0,23,0.0,Nominated for 2 Oscars. Another 11 wins & 4 nominations.,63.0,7.6,65%,PG,Chris Columbus,103 min,20th Century Fox,USA
 Incredibles 2,2018-06-15,2018,6,608581744,608581744,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 12 wins & 73 nominations.,80.0,7.6,94%,PG,Brad Bird,118 min,Walt Disney,USA
-Pirates of the Caribbean: Dead Man’…,2006-07-07 00:00:00,2006,7,588764432,423315812,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 43 wins & 53 nominations.,53,7.3,53%,PG-13,Gore Verbinski,151 min,Walt Disney,USA
+Pirates of the Caribbean: Dead Man’…,2006-07-07,2006,7,588764432,423315812,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 43 wins & 53 nominations.,53.0,7.3,53%,PG-13,Gore Verbinski,151 min,Walt Disney,USA
 Batman,1989-06-23,1989,6,573516561,251188924,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 14 wins & 72 nominations.,70.0,8.2,84%,PG-13,Christopher Nolan,140 min,Warner Bros.,"USA, UK"
 The Lord of the Rings: The Return of …,2003-12-17,2003,12,566753142,377845905,Adventure,Yes,11.0,25,44.0,Won 11 Oscars. Another 198 wins & 123 nominations.,94.0,8.9,93%,PG-13,Peter Jackson,201 min,New Line,"New Zealand, USA"
 Finding Nemo,2003-05-30,2003,5,559944647,380529370,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 48 wins & 62 nominations.,90.0,8.1,99%,G,"Andrew Stanton, Lee Unkrich(co-director)",100 min,Walt Disney,"USA, Australia"
@@ -37,7 +37,7 @@ The Lord of the Rings: The Two Towers,2002-12-18,2002,12,532244571,342548984,Adv
 Back to the Future,1985-07-03,1985,7,525911691,212259762,Adventure,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 19 wins & 25 nominations.,87.0,8.5,96%,PG,Robert Zemeckis,116 min,Universal,USA
 The Sixth Sense,1999-08-06,1999,8,524581166,293506292,Thriller/Suspense,No,0.0,23,0.0,Nominated for 6 Oscars. Another 36 wins & 49 nominations.,64.0,8.1,86%,PG-13,M. Night Shyamalan,107 min,Walt Disney,USA
 Tootsie,1982-12-17,1982,12,520922135,177200000,Comedy,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 24 wins & 30 nominations.,88.0,7.4,90%,PG,Sydney Pollack,116 min,Sony Pictures,USA
-Star Wars: The Rise of Skywalker,2019-12-20 00:00:00,2019,12,515202542,515202542,Adventure,No,0.0,25,0.0,Nominated for 3 Oscars. Another 7 wins & 35 nominations.,53,6.7,51%,PG-13,J.J. Abrams,142 min,Walt Disney,USA
+Star Wars: The Rise of Skywalker,2019-12-20,2019,12,515202542,515202542,Adventure,No,0.0,25,0.0,Nominated for 3 Oscars. Another 7 wins & 35 nominations.,53.0,6.7,51%,PG-13,J.J. Abrams,142 min,Walt Disney,USA
 The Dark Knight Rises,2012-07-20,2012,7,512882806,448139099,Action,No,0.0,25,0.0,Nominated for 1 BAFTA Film Award. Another 38 wins & 101 nominations.,78.0,8.4,87%,PG-13,Christopher Nolan,164 min,Warner Bros.,"UK, USA"
 Finding Dory,2016-06-17,2016,6,512156365,486295561,Adventure,No,0.0,25,0.0,Nominated for 1 BAFTA Film Award. Another 17 wins & 45 nominations.,77.0,7.3,94%,PG,"Andrew Stanton, Angus MacLane(co-director)",97 min,Walt Disney,USA
 Beauty and the Beast,2017-03-17,2017,3,511880606,504014165,Musical,Yes,2.0,25,8.0,Won 2 Oscars. Another 26 wins & 33 nominations.,95.0,8.0,94%,G,"Gary Trousdale, Kirk Wise",84 min,Walt Disney,USA
@@ -56,7 +56,7 @@ Frozen II,2019-11-22,2019,11,477373578,477373578,Adventure,No,0.0,25,0.0,Nominat
 The Hunger Games: Catching Fire,2013-11-22,2013,11,475761870,424668047,Adventure,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 22 wins & 67 nominations.,76.0,7.5,90%,PG-13,Francis Lawrence,146 min,Lionsgate,USA
 Ghost,1990-07-13,1990,7,469815445,217631306,Drama,No,0.0,23,0.0,5 wins & 30 nominations.,73.0,7.4,94%,PG-13,Brad Bird,132 min,Paramount Pictures,"USA, United Arab Emirates, Czech Republic, India, Canada"
 The Hunger Games,2012-03-23,2012,3,466956955,408010692,Thriller/Suspense,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 33 wins & 47 nominations.,68.0,7.2,84%,PG-13,Gary Ross,142 min,Lionsgate,USA
-Pirates of the Caribbean: The Curse o…,2003-07-09 00:00:00,2003,7,461408382,305410819,Adventure,No,0.0,25,0.0,Nominated for 5 Oscars. Another 38 wins & 99 nominations.,63,8.0,79%,PG-13,Gore Verbinski,143 min,Walt Disney,USA
+Pirates of the Caribbean: The Curse o…,2003-07-09,2003,7,461408382,305410819,Adventure,No,0.0,25,0.0,Nominated for 5 Oscars. Another 38 wins & 99 nominations.,63.0,8.0,79%,PG-13,Gore Verbinski,143 min,Walt Disney,USA
 Iron Man 3,2013-05-03,2013,5,458292689,408992272,Action,No,0.0,25,0.0,Nominated for 1 Oscar. Another 20 wins & 62 nominations.,62.0,7.2,79%,PG-13,Shane Black,130 min,Walt Disney,USA
 The Lost World: Jurassic Park,1997-05-22,1997,5,454679654,229086679,Action,No,0.0,24,0.0,Nominated for 1 Oscar. Another 4 wins & 27 nominations.,59.0,6.6,51%,PG-13,Steven Spielberg,129 min,Universal,USA
 Indiana Jones and the Last Crusade,1989-05-24,1989,5,450184242,197171806,Adventure,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 7 wins & 22 nominations.,65.0,8.2,87%,PG-13,Steven Spielberg,127 min,Paramount Pictures,USA
@@ -80,10 +80,10 @@ Wonder Woman,2017-06-02,2017,6,419002525,412563408,Action,No,0.0,25,0.0,24 wins 
 Jurassic World: Fallen Kingdom,2018-06-22,2018,6,417719764,417719760,Action,No,0.0,25,0.0,4 wins & 25 nominations.,51.0,6.2,47%,PG-13,J.A. Bayona,128 min,Universal,USA
 Saving Private Ryan,1998-07-24,1998,7,416376522,216335085,Drama,Yes,5.0,24,20.833333333333336,Won 5 Oscars. Another 74 wins & 74 nominations.,91.0,8.6,93%,R,Steven Spielberg,169 min,Dreamworks SKG,USA
 Despicable Me 2,2013-07-03,2013,7,412431819,368065385,Adventure,No,0.0,25,0.0,Nominated for 2 Oscars. Another 12 wins & 65 nominations.,62.0,7.3,75%,PG,"Pierre Coffin, Chris Renaud",98 min,Universal,"USA, France, Japan"
-"The Chronicles of Narnia: The Lion, t…",2005-12-09 00:00:00,2005,12,412335608,291710957,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 17 wins & 46 nominations.,75,6.9,76%,PG,Andrew Adamson,143 min,Walt Disney,"UK, USA"
+"The Chronicles of Narnia: The Lion, t…",2005-12-09,2005,12,412335608,291710957,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 17 wins & 46 nominations.,75.0,6.9,76%,PG,Andrew Adamson,143 min,Walt Disney,"UK, USA"
 Harry Potter and the Goblet of Fire,2005-11-18,2005,11,411719381,290201752,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 13 wins & 42 nominations.,81.0,7.7,88%,PG-13,Mike Newell,157 min,Warner Bros.,"UK, USA"
 Harry Potter and the Chamber of Secrets,2002-11-15,2002,11,410227600,262233381,Adventure,No,0.0,25,0.0,Nominated for 3 BAFTA Film Awards. Another 13 wins & 43 nominations.,63.0,7.4,83%,PG,Chris Columbus,161 min,Warner Bros.,"UK, USA, Germany"
-Pirates of the Caribbean: At World’…,2007-05-24 00:00:00,2007,5,409712211,309420425,Adventure,No,0.0,25,0.0,Nominated for 2 Oscars. Another 20 wins & 44 nominations.,50,7.1,44%,PG-13,Gore Verbinski,169 min,Walt Disney,USA
+Pirates of the Caribbean: At World’…,2007-05-24,2007,5,409712211,309420425,Adventure,No,0.0,25,0.0,Nominated for 2 Oscars. Another 20 wins & 44 nominations.,50.0,7.1,44%,PG-13,Gore Verbinski,169 min,Walt Disney,USA
 Jumanji: Welcome to the Jungle,2017-12-20,2017,12,407146634,404508916,Adventure,No,0.0,25,0.0,5 wins & 14 nominations.,58.0,6.9,76%,PG-13,Jake Kasdan,119 min,Sony Pictures,"USA, India, Canada, UK, Australia, Germany"
 Transformers: Dark of the Moon,2011-06-29,2011,6,404826964,352390543,Action,No,0.0,25,0.0,Nominated for 3 Oscars. Another 10 wins & 39 nominations.,42.0,6.2,35%,PG-13,Michael Bay,154 min,Paramount Pictures,USA
 The Fugitive,1993-08-06,1993,8,404615494,183875760,Thriller/Suspense,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 12 wins & 37 nominations.,87.0,7.8,96%,PG-13,Andrew Davis,130 min,Warner Bros.,USA
@@ -101,7 +101,7 @@ Spider-Man: Far From Home,2019-07-02,2019,7,390532085,390532085,Action,No,0.0,25
 The Secret Life of Pets,2016-07-08,2016,7,387974703,368384330,Adventure,No,0.0,25,0.0,4 wins & 15 nominations.,61.0,6.5,73%,PG,"Chris Renaud, Yarrow Cheney(co-director)",87 min,Universal,"USA, France, Japan"
 Beauty and the Beast,1991-11-13,1991,11,387837197,206333165,Musical,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 26 wins & 33 nominations.,95.0,8.0,94%,G,"Gary Trousdale, Kirk Wise",84 min,Walt Disney,USA
 Rocky III,1982-05-28,1982,5,387482144,125049125,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 2 wins & 7 nominations.,57.0,6.8,64%,PG,Sylvester Stallone,99 min,MGM,"USA, Canada"
-Harry Potter and the Order of the Pho…,2007-07-11 00:00:00,2007,7,386651621,292137260,Adventure,No,0.0,25,0.0,Nominated for 2 BAFTA Film Awards. Another 14 wins & 40 nominations.,71,7.5,78%,PG-13,David Yates,138 min,Warner Bros.,"UK, USA"
+Harry Potter and the Order of the Pho…,2007-07-11,2007,7,386651621,292137260,Adventure,No,0.0,25,0.0,Nominated for 2 BAFTA Film Awards. Another 14 wins & 40 nominations.,71.0,7.5,78%,PG-13,David Yates,138 min,Warner Bros.,"UK, USA"
 Rambo: First Blood Part II,1985-05-22,1985,5,385995656,150415432,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 5 wins & 4 nominations.,47.0,6.5,36%,R,George P. Cosmatos,96 min,Sony/TriStar,"USA, Mexico"
 Alice in Wonderland,2010-03-05,2010,3,385865775,334191110,Adventure,Yes,2.0,25,8.0,Won 2 Oscars. Another 33 wins & 63 nominations.,53.0,6.4,51%,PG,Tim Burton,108 min,Walt Disney,"USA, UK"
 Batman Forever,1995-06-16,1995,6,385407678,184031112,Action,No,0.0,24,0.0,Nominated for 3 Oscars. Another 10 wins & 22 nominations.,51.0,5.4,39%,PG-13,Joel Schumacher,121 min,Warner Bros.,"USA, UK"
@@ -111,7 +111,7 @@ Cast Away,2000-12-22,2000,12,384884272,233632142,Drama,No,0.0,24,0.0,Nominated f
 The Jungle Book,2016-04-15,2016,4,383358402,364001123,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 32 wins & 55 nominations.,77.0,7.4,94%,PG,Jon Favreau,106 min,Walt Disney,"UK, USA"
 The Incredibles,2004-11-05,2004,11,383083289,261441092,Adventure,Yes,2.0,25,8.0,Won 2 Oscars. Another 65 wins & 56 nominations.,90.0,8.0,90/100,PG,Brad Bird,115 min,Walt Disney,USA
 Deadpool,2016-02-12,2016,2,382378512,363070709,Action,No,0.0,25,0.0,Nominated for 2 Golden Globes. Another 28 wins & 75 nominations.,65.0,8.0,85%,R,Tim Miller,108 min,20th Century Fox,USA
-3 Men and a Baby,1987-11-25 00:00:00,1987,11,381836094,167780960,Comedy,No,0.0,23,0.0,2 wins & 1 nomination.,61,6.0,75%,PG,Leonard Nimoy,102 min,Walt Disney,"USA, France"
+3 Men and a Baby,1987-11-25,1987,11,381836094,167780960,Comedy,No,0.0,23,0.0,2 wins & 1 nomination.,61.0,6.0,75%,PG,Leonard Nimoy,102 min,Walt Disney,"USA, France"
 Furious 7,2015-04-03,2015,4,381482079,353007020,Action,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 33 wins & 34 nominations.,67.0,7.1,82%,PG-13,James Wan,137 min,Universal,"USA, China, Japan, Canada, United Arab Emirates"
 Home Alone 2: Lost in New York,1992-11-20,1992,11,381180073,173585516,Adventure,No,0.0,23,0.0,3 wins & 3 nominations.,,6.8,33%,PG,Chris Columbus,120 min,20th Century Fox,USA
 American Sniper,2014-12-25,2014,12,378445725,350126372,Drama,Yes,1.0,25,4.0,Won 1 Oscar. Another 23 wins & 43 nominations.,72.0,7.3,72%,R,Clint Eastwood,133 min,Warner Bros.,USA
@@ -124,7 +124,7 @@ Austin Powers: The Spy Who Shagged Me,1999-06-10,1999,6,369493137,206040085,Come
 Harry Potter and the Half-Blood Prince,2009-07-15,2009,7,366779769,302089278,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 8 wins & 35 nominations.,78.0,7.6,83%,PG,David Yates,153 min,Warner Bros.,"UK, USA"
 Bruce Almighty,2003-05-23,2003,5,366673710,242704995,Comedy,No,0.0,25,0.0,7 wins & 9 nominations.,46.0,6.8,48%,PG-13,Tom Shadyac,101 min,Universal,USA
 Harry Potter and the Prisoner of Azkaban,2004-06-04,2004,6,366070829,249757726,Adventure,No,0.0,25,0.0,Nominated for 2 Oscars. Another 17 wins & 51 nominations.,82.0,7.9,90%,PG,Alfonso Cuarón,142 min,Warner Bros.,"UK, USA"
-Mission: Impossible 2,2000-05-24 00:00:00,2000,5,364078672,215409889,Action,No,0.0,24,0.0,12 wins & 20 nominations.,59,6.1,59/100,PG-13,John Woo,123 min,Paramount Pictures,"USA, Germany"
+Mission: Impossible 2,2000-05-24,2000,5,364078672,215409889,Action,No,0.0,24,0.0,12 wins & 20 nominations.,59.0,6.1,59/100,PG-13,John Woo,123 min,Paramount Pictures,"USA, Germany"
 Rush Hour 2,2001-08-03,2001,8,364020605,226164286,Action,No,0.0,25,0.0,10 wins & 22 nominations.,48.0,6.6,52%,PG-13,Brett Ratner,90 min,New Line,"Hong Kong, USA"
 Minions,2015-07-10,2015,7,363152668,336045770,Adventure,No,0.0,25,0.0,Nominated for 1 BAFTA Film Award. Another 4 wins & 25 nominations.,56.0,6.4,55%,PG,"Kyle Balda, Pierre Coffin",91 min,Universal,USA
 Apollo 13,1995-06-30,1995,6,362988651,173772767,Drama,Yes,2.0,24,8.333333333333332,Won 2 Oscars. Another 26 wins & 58 nominations.,77.0,7.6,96%,PG,Ron Howard,140 min,Universal,USA
@@ -155,7 +155,7 @@ Night at the Museum,2006-12-22,2006,12,339901743,250863268,Adventure,No,0.0,25,0
 Cars,2006-06-09,2006,6,339480296,244082982,Adventure,No,0.0,25,0.0,Nominated for 2 Oscars. Another 28 wins & 32 nominations.,73.0,7.1,75%,G,"John Lasseter, Joe Ranft(co-director)",117 min,Walt Disney,USA
 Spider-Man: Homecoming,2017-07-07,2017,7,339417210,334201140,Action,No,0.0,25,0.0,7 wins & 9 nominations.,73.0,7.4,92%,PG-13,Jon Watts,133 min,Sony Pictures,USA
 Porky's,1982-03-19,1982,3,339277727,109492484,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,40.0,6.2,36%,R,Bob Clark,94 min,20th Century Fox,"Canada, USA"
-Nine to Five,1980-12-19 00:00:00,1980,12,339231493,103290500,Comedy,No,0.0,22,0.0,Nominated for 1 Oscar. Another 3 wins & 6 nominations.,58,6.8,82%,PG,Colin Higgins,109 min,20th Century Fox,USA
+Nine to Five,1980-12-19,1980,12,339231493,103290500,Comedy,No,0.0,22,0.0,Nominated for 1 Oscar. Another 3 wins & 6 nominations.,58.0,6.8,82%,PG,Colin Higgins,109 min,20th Century Fox,USA
 Inception,2010-07-16,2010,7,337816073,292576195,Thriller/Suspense,Yes,4.0,25,16.0,Won 4 Oscars. Another 152 wins & 217 nominations.,74.0,8.8,87%,PG-13,Christopher Nolan,148 min,Warner Bros.,"USA, UK"
 The Hangover,2009-06-05,2009,6,336854403,277322503,Comedy,Yes,1.0,25,4.0,Won 1 Golden Globe. Another 12 wins & 25 nominations.,73.0,7.7,78%,R,Todd Phillips,100 min,Warner Bros.,"USA, Germany"
 I am Legend,2007-12-14,2007,12,336716286,256393010,Horror,No,0.0,25,0.0,9 wins & 22 nominations.,65.0,7.2,68%,PG-13,Francis Lawrence,101 min,Warner Bros.,USA
@@ -171,7 +171,7 @@ Man of Steel,2013-06-14,2013,6,326128489,291045518,Action,No,0.0,25,0.0,7 wins &
 X-Men: The Last Stand,2006-05-26,2006,5,325960610,234362462,Action,No,0.0,25,0.0,7 wins & 37 nominations.,58.0,6.7,57%,PG-13,Brett Ratner,104 min,20th Century Fox,"Canada, USA, UK"
 Rocky IV,1985-11-27,1985,11,325675786,127873716,Drama,No,0.0,23,0.0,9 wins & 5 nominations.,40.0,6.9,40%,PG,Sylvester Stallone,91 min,MGM,USA
 The Mummy Returns,2001-05-04,2001,5,325139498,202007640,Adventure,No,0.0,25,0.0,6 wins & 18 nominations.,48.0,6.3,47%,PG-13,Stephen Sommers,130 min,Universal,USA
-X-Men 2,2003-05-02 00:00:00,2003,5,324741574,214949694,Action,No,0.0,25,0.0,Nominated for 1 Oscar. Another 16 wins & 47 nominations.,75,8.0,90%,PG-13,Bryan Singer,132 min,20th Century Fox,"USA, UK, Canada"
+X-Men 2,2003-05-02,2003,5,324741574,214949694,Action,No,0.0,25,0.0,Nominated for 1 Oscar. Another 16 wins & 47 nominations.,75.0,8.0,90%,PG-13,Bryan Singer,132 min,20th Century Fox,"USA, UK, Canada"
 Deadpool 2,2018-05-18,2018,5,324591735,324591735,Action,No,0.0,25,0.0,6 wins & 50 nominations.,66.0,7.7,84%,R,David Leitch,119 min,20th Century Fox,USA
 "The Twilight Saga: Breaking Dawn, Part 1",2011-11-18,2011,11,323118299,281287133,Drama,No,0.0,25,0.0,11 wins & 22 nominations.,45.0,4.9,25%,PG-13,Bill Condon,117 min,Summit Entertainment,USA
 The Santa Clause,1994-11-11,1994,11,322437500,144833357,Adventure,No,0.0,23,0.0,2 wins & 8 nominations.,57.0,6.5,71%,PG,John Pasquin,97 min,Walt Disney,"USA, Canada"
@@ -201,7 +201,7 @@ Terms of Endearment,1983-11-23,1983,11,301736446,108423489,Drama,Yes,5.0,23,21.7
 The Bourne Ultimatum,2007-08-03,2007,8,301200787,227471070,Thriller/Suspense,Yes,3.0,25,12.0,Won 3 Oscars. Another 26 wins & 41 nominations.,85.0,8.0,92%,PG-13,Paul Greengrass,115 min,Universal,"USA, Germany, France, Spain"
 Monsters University,2013-06-21,2013,6,300852229,268488329,Adventure,No,0.0,25,0.0,Nominated for 1 BAFTA Film Award. Another 9 wins & 57 nominations.,65.0,7.3,80%,G,Dan Scanlon,104 min,Walt Disney,USA
 The Amazing Spider-Man,2012-07-03,2012,7,299886852,262030663,Adventure,No,0.0,25,0.0,2 wins & 31 nominations.,66.0,6.9,73%,PG-13,Marc Webb,136 min,Sony Pictures,USA
-Men in Black 2,2002-07-03 00:00:00,2002,7,298574055,190418803,Action,Yes,1.0,25,4.0,Won 1 Oscar. Another 21 wins & 39 nominations.,71,7.3,92%,PG-13,Barry Sonnenfeld,98 min,Sony Pictures,USA
+Men in Black 2,2002-07-03,2002,7,298574055,190418803,Action,Yes,1.0,25,4.0,Won 1 Oscar. Another 21 wins & 39 nominations.,71.0,7.3,92%,PG-13,Barry Sonnenfeld,98 min,Sony Pictures,USA
 "Honey, I Shrunk the Kids",1989-06-23,1989,6,298470475,130724172,Adventure,Yes,1.0,23,4.3478260869565215,Won 1 BAFTA Film Award. Another 1 win & 10 nominations.,63.0,6.3,76%,PG,Joe Johnston,93 min,Walt Disney,"USA, Mexico"
 Wedding Crashers,2005-07-15,2005,7,297344661,209218368,Comedy,No,0.0,25,0.0,11 wins & 11 nominations.,64.0,6.9,75%,R,David Dobkin,119 min,New Line,USA
 Pocahontas,1995-06-10,1995,6,296502897,141579773,Adventure,Yes,2.0,24,8.333333333333332,Won 2 Oscars. Another 13 wins & 7 nominations.,58.0,6.7,55%,G,"Mike Gabriel, Eric Goldberg",81 min,Walt Disney,USA
@@ -224,7 +224,7 @@ The Lego Movie,2014-02-07,2014,2,287444159,257784718,Adventure,No,0.0,25,0.0,Nom
 Alvin and the Chipmunks,2007-12-14,2007,12,284244772,217326974,Adventure,No,0.0,25,0.0,3 wins & 2 nominations.,39.0,5.2,28%,PG,Tim Hill,92 min,20th Century Fox,USA
 Coming to America,1988-06-29,1988,6,284055339,128152301,Comedy,No,0.0,23,0.0,Nominated for 2 Oscars. Another 5 wins & 3 nominations.,47.0,7.0,67%,R,John Landis,116 min,Paramount Pictures,USA
 WALL-E,2008-06-27,2008,6,283968229,223808164,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 91 wins & 93 nominations.,95.0,8.4,95%,G,Andrew Stanton,98 min,Walt Disney,USA
-The Hobbit: The Battle of the Five Ar…,2014-12-17 00:00:00,2014,12,283285507,255119788,Adventure,No,0.0,25,0.0,Nominated for 3 Oscars. Another 10 wins & 72 nominations.,58,7.8,64%,PG-13,Peter Jackson,169 min,Warner Bros.,"New Zealand, USA"
+The Hobbit: The Battle of the Five Ar…,2014-12-17,2014,12,283285507,255119788,Adventure,No,0.0,25,0.0,Nominated for 3 Oscars. Another 10 wins & 72 nominations.,58.0,7.8,64%,PG-13,Peter Jackson,169 min,Warner Bros.,"New Zealand, USA"
 The Silence of the Lambs,1991-02-14,1991,2,282878946,130726716,Thriller/Suspense,Yes,5.0,23,21.73913043478261,Won 5 Oscars. Another 63 wins & 51 nominations.,85.0,8.6,96%,R,Jonathan Demme,118 min,Orion Pictures,USA
 "The Karate Kid, Part II",1986-06-20,1986,6,282640765,115103979,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 4 wins & 2 nominations.,55.0,6.0,42%,PG,John G. Avildsen,113 min,Sony Pictures,USA
 Airplane!,1980-07-04,1980,7,282625178,83453539,Comedy,No,0.0,22,0.0,Nominated for 1 Golden Globe. Another 2 wins & 6 nominations.,78.0,7.7,97%,PG,"Jim Abrahams, David Zucker, Jerry Zucker",88 min,Paramount Pictures,USA
@@ -242,7 +242,7 @@ Pirates of the Caribbean: On Stranger…,2011-05-20,2011,5,276934662,241063875,A
 Ice Age,2002-03-15,2002,3,276573013,176387405,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 5 wins & 29 nominations.,60.0,7.5,77%,PG,"Chris Wedge, Carlos Saldanha(co-director)",81 min,20th Century Fox,USA
 The Rock,1996-06-07,1996,6,276328783,134069511,Action,No,0.0,24,0.0,Nominated for 1 Oscar. Another 9 wins & 8 nominations.,58.0,7.4,66%,R,Michael Bay,136 min,Walt Disney,USA
 Shrek Forever After,2010-05-21,2010,5,275651728,238736787,Adventure,No,0.0,25,0.0,1 win & 13 nominations.,58.0,6.3,58%,PG,Mike Mitchell,93 min,Paramount Pictures,USA
-Dumb & Dumber,1994-12-16 00:00:00,1994,12,275554178,127175374,Comedy,No,0.0,23,0.0,5 wins & 3 nominations.,41,7.3,67%,PG-13,"Peter Farrelly, Bobby Farrelly",107 min,New Line,USA
+Dumb & Dumber,1994-12-16,1994,12,275554178,127175374,Comedy,No,0.0,23,0.0,5 wins & 3 nominations.,41.0,7.3,67%,PG-13,"Peter Farrelly, Bobby Farrelly",107 min,New Line,USA
 Madagascar,2005-05-27,2005,5,275141213,193595521,Adventure,No,0.0,25,0.0,4 wins & 32 nominations.,57.0,6.9,54%,PG,"Eric Darnell, Tom McGrath",86 min,Dreamworks SKG,USA
 Good Morning Vietnam,1987-12-23,1987,12,274937031,123922370,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 7 wins & 3 nominations.,67.0,7.3,90%,R,Barry Levinson,121 min,Walt Disney,USA
 The Day After Tomorrow,2004-05-28,2004,5,273946646,186740799,Adventure,Yes,1.0,25,4.0,Won 1 BAFTA Film Award. Another 5 wins & 12 nominations.,47.0,6.4,44%,PG-13,Roland Emmerich,124 min,20th Century Fox,USA
@@ -257,7 +257,7 @@ Clear and Present Danger,1994-08-03,1994,8,272424766,122012656,Action,No,0.0,23,
 Ice Age: The Meltdown,2006-03-31,2006,3,271673573,195330621,Adventure,No,0.0,25,0.0,8 wins & 16 nominations.,58.0,6.8,57%,PG,Carlos Saldanha,91 min,20th Century Fox,USA
 Brave,2012-06-22,2012,6,271562769,237282182,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 19 wins & 48 nominations.,69.0,7.1,78%,PG,"Mark Andrews, Brenda Chapman, Steve Purcell(co-director)",93 min,Walt Disney,"USA, UK"
 Speed,1994-06-10,1994,6,270728083,121248145,Action,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 17 wins & 20 nominations.,78.0,7.2,94%,R,Jan de Bont,116 min,20th Century Fox,USA
-Dr. Seuss’ The Grinch,2018-11-09 00:00:00,2018,11,270620950,270620950,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 17 wins & 37 nominations.,46,6.2,50%,PG,Ron Howard,104 min,Universal,"USA, Germany"
+Dr. Seuss’ The Grinch,2018-11-09,2018,11,270620950,270620950,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 17 wins & 37 nominations.,46.0,6.2,50%,PG,Ron Howard,104 min,Universal,"USA, Germany"
 A Beautiful Mind,2001-12-21,2001,12,269239236,170708996,Drama,Yes,4.0,25,16.0,Won 4 Oscars. Another 33 wins & 68 nominations.,72.0,8.2,74%,PG-13,Ron Howard,135 min,Universal,USA
 Good Will Hunting,1997-12-05,1997,12,269219166,138433435,Drama,Yes,2.0,24,8.333333333333332,Won 2 Oscars. Another 22 wins & 60 nominations.,70.0,8.3,97%,R,Gus Van Sant,126 min,Miramax,USA
 Maleficent,2014-05-30,2014,5,269182462,241407328,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 12 wins & 42 nominations.,56.0,7.0,54%,PG,Robert Stromberg,97 min,Walt Disney,USA
@@ -267,7 +267,7 @@ Back to the Future Part II,1989-11-22,1989,11,268626278,118450002,Adventure,No,0
 City Slickers,1991-06-07,1991,6,268396160,124033791,Comedy,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 7 wins & 7 nominations.,70.0,6.7,88%,PG-13,Ron Underwood,113 min,Sony Pictures,USA
 The Bodyguard,1992-11-25,1992,11,267816973,121945720,Thriller/Suspense,No,0.0,23,0.0,Nominated for 2 Oscars. Another 10 wins & 19 nominations.,39.0,6.3,33%,R,Mick Jackson,129 min,Warner Bros.,USA
 The Mask,1994-07-29,1994,7,267616754,119920129,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 6 wins & 20 nominations.,56.0,6.9,77%,PG-13,Chuck Russell,101 min,New Line,USA
-Fast and Furious 6,2013-05-24 00:00:00,2013,5,267450606,238679850,Action,No,0.0,25,0.0,10 wins & 22 nominations.,61,7.1,70%,PG-13,Justin Lin,130 min,Universal,"USA, Japan, Spain, UK"
+Fast and Furious 6,2013-05-24,2013,5,267450606,238679850,Action,No,0.0,25,0.0,10 wins & 22 nominations.,61.0,7.1,70%,PG-13,Justin Lin,130 min,Universal,"USA, Japan, Spain, UK"
 Wayne's World,1992-02-14,1992,2,267147616,121697323,Comedy,No,0.0,23,0.0,4 wins & 5 nominations.,57.0,7.0,84%,PG-13,Penelope Spheeris,94 min,Paramount Pictures,USA
 Star Trek IV: The Voyage Home,1986-11-26,1986,11,266157150,109713132,Adventure,No,0.0,23,0.0,Nominated for 4 Oscars. Another 4 wins & 14 nominations.,71.0,7.3,83%,PG,Leonard Nimoy,119 min,Paramount Pictures,USA
 X-Men,2000-07-14,2000,7,265862778,157299717,Action,No,0.0,24,0.0,Nominated for 1 Oscar. Another 16 wins & 47 nominations.,75.0,8.0,90%,PG-13,Bryan Singer,132 min,20th Century Fox,"USA, UK, Canada"
@@ -275,7 +275,7 @@ Arthur,1981-07-17,1981,7,265860173,81464486,Comedy,No,0.0,23,0.0,9 nominations.,
 Hannibal,2001-02-09,2001,2,265722703,165092266,Horror,No,0.0,25,0.0,9 wins & 22 nominations.,57.0,6.8,39%,R,Ridley Scott,131 min,MGM,"USA, UK, Italy"
 The Nutty Professor,1996-06-28,1996,6,265496766,128814019,Comedy,Yes,1.0,24,4.166666666666666,Won 1 Oscar. Another 9 wins & 12 nominations.,62.0,5.6,64%,PG-13,Tom Shadyac,95 min,Universal,USA
 Scary Movie,2000-07-07,2000,7,265389623,157019771,Comedy,No,0.0,24,0.0,7 wins & 6 nominations.,48.0,6.2,53%,R,Keenen Ivory Wayans,88 min,Miramax/Dimension,USA
-Mr. and Mrs. Smith,2005-06-10 00:00:00,2005,6,264824256,186336279,Action,No,0.0,25,0.0,9 wins & 18 nominations.,55,6.5,60%,PG-13,Doug Liman,120 min,20th Century Fox,USA
+Mr. and Mrs. Smith,2005-06-10,2005,6,264824256,186336279,Action,No,0.0,25,0.0,9 wins & 18 nominations.,55.0,6.5,60%,PG-13,Doug Liman,120 min,20th Century Fox,USA
 Godzilla,1998-05-19,1998,5,264781066,136314294,Action,No,0.0,24,0.0,7 wins & 31 nominations.,62.0,6.4,75%,PG-13,Gareth Edwards,123 min,Sony Pictures,"USA, Japan"
 Oz the Great and Powerful,2013-03-08,2013,3,263070572,234770996,Adventure,No,0.0,25,0.0,6 wins & 31 nominations.,44.0,6.3,57%,PG,Sam Raimi,130 min,Walt Disney,USA
 Alvin and the Chipmunks: The Squeakquel,2009-12-23,2009,12,262934105,219614612,Adventure,No,0.0,25,0.0,3 wins.,41.0,4.5,20%,PG,Betty Thomas,88 min,20th Century Fox,USA
@@ -315,14 +315,14 @@ The Martian,2015-10-02,2015,10,246775224,228433663,Thriller/Suspense,No,0.0,25,0
 The Karate Kid,1984-06-22,1984,6,246229079,90815558,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 2 wins & 2 nominations.,60.0,7.2,88%,PG,John G. Avildsen,126 min,Sony Pictures,USA
 Fantastic Beasts and Where to Find Them,2016-11-18,2016,11,246056618,234037575,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 14 wins & 53 nominations.,66.0,7.3,74%,PG-13,David Yates,132 min,Warner Bros.,"UK, USA"
 The Addams Family,1991-11-22,1991,11,245711577,113502246,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 5 wins & 20 nominations.,57.0,6.9,64%,PG-13,Barry Sonnenfeld,99 min,Paramount Pictures,USA
-Doctor Seuss' The Lorax,2012-03-02 00:00:00,2012,3,244951985,214030500,Adventure,No,0.0,25,0.0,4 wins & 8 nominations.,46,6.4,46/100,PG,"Chris Renaud, Kyle Balda(co-director)",86 min,Universal,"USA, France"
+Doctor Seuss' The Lorax,2012-03-02,2012,3,244951985,214030500,Adventure,No,0.0,25,0.0,4 wins & 8 nominations.,46.0,6.4,46/100,PG,"Chris Renaud, Kyle Balda(co-director)",86 min,Universal,"USA, France"
 Doctor Strange,2016-11-04,2016,11,244918405,232641920,Action,No,0.0,25,0.0,Nominated for 1 Oscar. Another 20 wins & 65 nominations.,72.0,7.5,89%,PG-13,Scott Derrickson,115 min,Walt Disney,USA
 Stuart Little,1999-12-17,1999,12,244838748,140015224,Adventure,No,0.0,23,0.0,Nominated for 1 Oscar. Another 7 wins & 13 nominations.,61.0,5.9,67%,PG,Rob Minkoff,84 min,Sony Pictures,"Germany, USA"
 Star Trek II: The Wrath of Khan,1982-06-04,1982,6,244522813,78912963,Adventure,No,0.0,23,0.0,3 wins & 9 nominations.,67.0,7.7,87%,PG,Nicholas Meyer,113 min,Paramount Pictures,USA
 The Truman Show,1998-06-05,1998,6,244004645,125618201,Drama,No,0.0,24,0.0,Nominated for 3 Oscars. Another 40 wins & 65 nominations.,90.0,8.1,95%,PG,Peter Weir,103 min,Paramount Pictures,USA
 Twilight,2008-11-21,2008,11,243728922,192769854,Drama,No,0.0,25,0.0,29 wins & 15 nominations.,56.0,5.2,49%,PG-13,Catherine Hardwicke,122 min,Summit Entertainment,USA
 The Simpsons Movie,2007-07-27,2007,7,242494180,183135014,Adventure,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 5 wins & 33 nominations.,80.0,7.3,88%,PG-13,David Silverman,87 min,20th Century Fox,USA
-Crocodile Dundee 2,1988-05-25 00:00:00,1988,5,242282126,109306210,Adventure,No,0.0,23,0.0,2 wins.,41,5.6,10%,PG,John Cornell,108 min,Paramount Pictures,Australia
+Crocodile Dundee 2,1988-05-25,1988,5,242282126,109306210,Adventure,No,0.0,23,0.0,2 wins.,41.0,5.6,10%,PG,John Cornell,108 min,Paramount Pictures,Australia
 The Little Mermaid,1989-11-15,1989,11,241772713,111543479,Adventure,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 10 wins & 8 nominations.,88.0,7.6,93%,G,"Ron Clements, John Musker",83 min,Walt Disney,USA
 Fast Five,2011-04-29,2011,4,241284408,210031325,Action,No,0.0,25,0.0,9 wins & 21 nominations.,66.0,7.3,77%,PG-13,Justin Lin,130 min,Universal,"USA, Brazil, Japan"
 Monsters vs. Aliens,2009-03-27,2009,3,240930986,198351526,Adventure,No,0.0,25,0.0,3 wins & 9 nominations.,56.0,6.4,73%,PG,"Rob Letterman, Conrad Vernon",94 min,Paramount Pictures,USA
@@ -336,7 +336,7 @@ Private Benjamin,1980-10-10,1980,10,236546215,69847348,Comedy,No,0.0,22,0.0,Nomi
 A League of Their Own,1992-07-01,1992,7,236056398,107533925,Comedy,No,0.0,23,0.0,Nominated for 2 Golden Globes. Another 6 wins & 11 nominations.,67.0,7.3,78%,PG,Penny Marshall,128 min,Sony Pictures,USA
 Pulp Fiction,1994-10-14,1994,10,234852794,107928762,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 69 wins & 74 nominations.,94.0,8.9,91%,R,Quentin Tarantino,154 min,Miramax,USA
 Indecent Proposal,1993-04-07,1993,4,234602433,106614059,Drama,No,0.0,23,0.0,7 wins & 8 nominations.,35.0,6.0,35%,R,Adrian Lyne,117 min,Paramount Pictures,USA
-Interview with the Vampire: The Vampi…,1994-11-11 00:00:00,1994,11,234419276,105264608,Horror,No,0.0,23,0.0,Nominated for 2 Oscars. Another 24 wins & 34 nominations.,59,7.6,63%,R,Neil Jordan,123 min,Warner Bros.,USA
+Interview with the Vampire: The Vampi…,1994-11-11,1994,11,234419276,105264608,Horror,No,0.0,23,0.0,Nominated for 2 Oscars. Another 24 wins & 34 nominations.,59.0,7.6,63%,R,Neil Jordan,123 min,Warner Bros.,USA
 Mulan,1998-06-19,1998,6,234296482,120620254,Adventure,No,0.0,24,0.0,Nominated for 1 Oscar. Another 17 wins & 20 nominations.,71.0,7.6,86%,G,"Tony Bancroft, Barry Cook",88 min,Walt Disney,USA
 American Pie 2,2001-08-10,2001,8,233539223,145096820,Comedy,No,0.0,25,0.0,8 wins & 6 nominations.,43.0,6.4,52%,R,J.B. Rogers,108 min,Universal,USA
 Dinosaur,2000-05-19,2000,5,232817219,137748063,Adventure,No,0.0,24,0.0,Nominated for 1 Golden Globe. Another 9 wins & 40 nominations.,66.0,6.7,76%,PG,Peter Sohn,93 min,Walt Disney,USA
@@ -396,7 +396,7 @@ Spectre,2015-11-06,2015,11,216131343,200074175,Action,Yes,1.0,25,4.0,Won 1 Oscar
 The Best Little Whorehouse in Texas,1982-07-23,1982,7,215980235,69701637,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 2 nominations.,40.0,6.0,56%,R,Colin Higgins,114 min,Universal,USA
 Phenomenon,1996-07-05,1996,7,215657149,104636382,Drama,No,0.0,24,0.0,7 wins & 8 nominations.,41.0,6.4,50%,PG,Jon Turteltaub,123 min,Walt Disney,USA
 Over the Hedge,2006-05-19,2006,5,215607044,155019340,Adventure,No,0.0,25,0.0,7 wins & 26 nominations.,67.0,6.7,75%,PG,"Tim Johnson, Karey Kirkpatrick",83 min,Paramount Pictures,USA
-Night at the Museum: Battle of the Sm…,2009-05-22 00:00:00,2009,5,215292039,177243721,Adventure,No,0.0,25,0.0,2 wins & 9 nominations.,42,6.0,45%,PG,Shawn Levy,105 min,20th Century Fox,"USA, Canada"
+Night at the Museum: Battle of the Sm…,2009-05-22,2009,5,215292039,177243721,Adventure,No,0.0,25,0.0,2 wins & 9 nominations.,42.0,6.0,45%,PG,Shawn Levy,105 min,20th Century Fox,"USA, Canada"
 A Star is Born,2018-10-05,2018,10,215288866,215288866,Drama,Yes,1.0,25,4.0,Won 1 Oscar. Another 94 wins & 274 nominations.,88.0,7.7,90%,R,Bradley Cooper,136 min,Warner Bros.,USA
 WarGames,1983-06-03,1983,6,215267378,74433837,Thriller/Suspense,No,0.0,23,0.0,Nominated for 3 Oscars. Another 4 wins & 11 nominations.,77.0,7.1,93%,PG,John Badham,114 min,MGM,USA
 Schindler’s List,1993-12-15,1993,12,215056017,96898818,Drama,Yes,7.0,23,30.434782608695656,Won 7 Oscars. Another 83 wins & 49 nominations.,94.0,8.9,97%,R,Steven Spielberg,195 min,Universal,USA
@@ -496,7 +496,7 @@ Chariots of Fire,1981-09-25,1981,9,191240582,61558162,Drama,Yes,4.0,23,17.391304
 Click,2006-06-23,2006,6,191039661,137355633,Comedy,No,0.0,25,0.0,Nominated for 1 Oscar. Another 3 wins & 11 nominations.,45.0,6.4,34%,PG-13,Frank Coraci,107 min,Sony Pictures,USA
 Sudden Impact,1983-12-09,1983,12,190965296,67642693,Action,No,0.0,23,0.0,1 nomination.,52.0,6.7,57%,R,Clint Eastwood,117 min,Warner Bros.,USA
 The Bourne Identity,2002-06-14,2002,6,190461649,121468960,Thriller/Suspense,No,0.0,25,0.0,3 wins & 6 nominations.,68.0,7.9,83%,PG-13,Doug Liman,119 min,Universal,"USA, Germany, Czech Republic"
-Spider-Man: Into The Spider-Verse 3D,2018-12-14 00:00:00,2018,12,190173195,190173195,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 79 wins & 55 nominations.,87,8.4,97%,PG,"Bob Persichetti, Peter Ramsey, Rodney Rothman",117 min,Sony Pictures,USA
+Spider-Man: Into The Spider-Verse 3D,2018-12-14,2018,12,190173195,190173195,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 79 wins & 55 nominations.,87.0,8.4,97%,PG,"Bob Persichetti, Peter Ramsey, Rodney Rothman",117 min,Sony Pictures,USA
 Back to the Future Part III,1990-05-24,1990,5,190090900,88055283,Adventure,No,0.0,23,0.0,5 wins & 11 nominations.,55.0,7.4,80%,PG,Robert Zemeckis,118 min,Universal,USA
 Kung Fu Panda 2,2011-05-26,2011,5,189838453,165249063,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 5 wins & 46 nominations.,67.0,7.2,81%,PG,Jennifer Yuh Nelson,90 min,Paramount Pictures,USA
 Star Trek: First Contact,1996-11-22,1996,11,189460570,92027888,Adventure,No,0.0,24,0.0,Nominated for 1 Oscar. Another 8 wins & 20 nominations.,71.0,7.6,93%,PG-13,Jonathan Frakes,111 min,Paramount Pictures,USA
@@ -549,7 +549,7 @@ Sleepy Hollow,1999-11-19,1999,11,180397860,101068340,Horror,Yes,1.0,23,4.3478260
 Purple Rain,1984-07-27,1984,7,180369591,68392977,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 5 wins & 4 nominations.,55.0,6.6,69%,R,Albert Magnoli,111 min,Warner Bros.,USA
 The Chronicles of Narnia: Prince Caspian,2008-05-16,2008,5,179689658,141621490,Adventure,No,0.0,25,0.0,2 wins & 20 nominations.,62.0,6.5,67%,PG,Andrew Adamson,150 min,Walt Disney,"USA, Poland, Slovenia, Czech Republic, UK"
 Marley & Me,2008-12-25,2008,12,179658410,143153751,Comedy,No,0.0,25,0.0,2 wins & 4 nominations.,53.0,7.1,62%,PG,David Frankel,115 min,20th Century Fox,USA
-The Dream is Alive,1985-06-30 00:00:00,1985,6,179633795,70000000,Documentary,No,0.0,23,0.0,N/A,N/A,7.6,,Not Rated,Graeme Ferguson,37 min,IMAX Films,"USA, Canada"
+The Dream is Alive,1985-06-30,1985,6,179633795,70000000,Documentary,No,0.0,23,0.0,,,7.6,,Not Rated,Graeme Ferguson,37 min,IMAX Films,"USA, Canada"
 For Your Eyes Only,1981-06-26,1981,6,179578415,54800000,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,54.0,6.8,72%,PG,John Glen,127 min,Universal,UK
 Fifty Shades of Grey,2015-02-13,2015,2,179570991,166167230,Drama,No,0.0,25,0.0,Nominated for 1 Oscar. Another 9 wins & 26 nominations.,46.0,4.1,25%,R,Sam Taylor-Johnson,125 min,Universal,USA
 Moonstruck,1987-12-16,1987,12,179150318,80640528,Romantic Comedy,Yes,3.0,23,13.043478260869565,Won 3 Oscars. Another 15 wins & 19 nominations.,83.0,7.1,93%,PG,Norman Jewison,102 min,MGM,USA
@@ -576,14 +576,14 @@ Taken,2009-01-30,2009,1,176127866,145000989,Thriller/Suspense,No,0.0,25,0.0,2 wi
 Antz,1998-10-02,1998,10,176077278,90757863,Adventure,No,0.0,24,0.0,Nominated for 1 BAFTA Film Award. Another 6 wins & 13 nominations.,72.0,6.5,92%,PG,"Eric Darnell, Tim Johnson",83 min,Dreamworks SKG,USA
 Ruthless People,1986-06-27,1986,6,175876722,71624879,Comedy,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 1 win & 2 nominations.,78.0,6.9,94%,R,"Jim Abrahams, David Zucker, Jerry Zucker",93 min,Walt Disney,USA
 Miss Congeniality,2000-12-22,2000,12,175650939,106807667,Comedy,No,0.0,24,0.0,Nominated for 2 Golden Globes. Another 7 wins & 5 nominations.,43.0,6.2,42%,PG-13,Donald Petrie,109 min,Warner Bros.,USA
-Pirates of the Caribbean: Dead Men Te…,2017-05-26 00:00:00,2017,5,175252095,172558876,Adventure,No,0.0,25,0.0,1 win & 12 nominations.,39,6.6,30%,PG-13,"Joachim Rønning, Espen Sandberg",129 min,Walt Disney,"USA, Australia, UK, Canada"
+Pirates of the Caribbean: Dead Men Te…,2017-05-26,2017,5,175252095,172558876,Adventure,No,0.0,25,0.0,1 win & 12 nominations.,39.0,6.6,30%,PG-13,"Joachim Rønning, Espen Sandberg",129 min,Walt Disney,"USA, Australia, UK, Canada"
 The Greatest Showman,2017-12-20,2017,12,175105524,174340174,Musical,No,0.0,25,0.0,Nominated for 1 Oscar. Another 15 wins & 32 nominations.,48.0,7.6,56%,PG,Michael Gracey,105 min,20th Century Fox,USA
 Us,2019-03-22,2019,3,175084580,175084580,Thriller/Suspense,No,0.0,25,0.0,75 wins & 110 nominations.,81.0,6.9,93%,R,Jordan Peele,116 min,Universal,"USA, China, Japan"
 Fahrenheit 9/11,2004-06-23,2004,6,174739648,119114517,Documentary,No,0.0,25,0.0,29 wins & 16 nominations.,67.0,7.5,82%,R,Michael Moore,122 min,Lionsgate,USA
-Fantastic Four: Rise of the Silver Su…,2007-06-15 00:00:00,2007,6,174681253,131921738,Action,No,0.0,25,0.0,2 wins & 14 nominations.,45,5.6,37%,PG,Tim Story,92 min,20th Century Fox,"USA, Germany, UK"
+Fantastic Four: Rise of the Silver Su…,2007-06-15,2007,6,174681253,131921738,Action,No,0.0,25,0.0,2 wins & 14 nominations.,45.0,5.6,37%,PG,Tim Story,92 min,20th Century Fox,"USA, Germany, UK"
 Inspector Gadget,1999-07-23,1999,7,174646525,97387965,Adventure,No,0.0,23,0.0,1 win & 13 nominations.,36.0,4.1,21%,PG,David Kellogg,78 min,Walt Disney,USA
 Crazy Rich Asians,2018-08-15,2018,8,174532921,174532921,Romantic Comedy,No,0.0,25,0.0,Nominated for 2 Golden Globes. Another 12 wins & 60 nominations.,74.0,6.9,91%,PG-13,Jon M. Chu,120 min,Warner Bros.,USA
-The Naked Gun: From the Files of Poli…,1988-12-02 00:00:00,1988,12,174519960,78041829,Comedy,No,0.0,23,0.0,1 nomination.,76,7.6,87%,PG-13,David Zucker,85 min,Paramount Pictures,USA
+The Naked Gun: From the Files of Poli…,1988-12-02,1988,12,174519960,78041829,Comedy,No,0.0,23,0.0,1 nomination.,76.0,7.6,87%,PG-13,David Zucker,85 min,Paramount Pictures,USA
 The Princess Diaries,2001-08-03,2001,8,174223539,108244774,Comedy,No,0.0,25,0.0,3 wins & 11 nominations.,52.0,6.3,48%,G,Garry Marshall,111 min,Walt Disney,"USA, UK"
 Straight Outta Compton,2015-08-14,2015,8,174200691,161197785,Drama,No,0.0,25,0.0,Nominated for 1 Oscar. Another 28 wins & 39 nominations.,72.0,7.9,89%,R,F. Gary Gray,147 min,Universal,USA
 Fast & Furious Presents: Hobbs & Shaw,2019-08-02,2019,8,173956935,173956935,Action,No,0.0,25,0.0,1 win & 20 nominations.,60.0,6.4,67%,PG-13,David Leitch,137 min,Universal,"USA, Japan"
@@ -591,7 +591,7 @@ The Devil Wears Prada,2006-06-30,2006,6,173493983,124740460,Comedy,No,0.0,25,0.0
 Cocktail,1988-07-29,1988,7,173384253,78222753,Drama,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 5 wins & 5 nominations.,12.0,5.9,7%,R,Roger Donaldson,104 min,Walt Disney,USA
 Superman III,1983-06-17,1983,6,173381001,59950623,Adventure,No,0.0,23,0.0,2 wins & 7 nominations.,44.0,5.0,26%,PG,Richard Lester,125 min,Warner Bros.,"UK, USA"
 Slumdog Millionaire,2008-11-12,2008,11,173222113,141330703,Drama,Yes,8.0,25,32.0,Won 8 Oscars. Another 147 wins & 131 nominations.,84.0,8.0,91%,R,"Danny Boyle, Loveleen Tandan(co-director)",120 min,Fox Searchlight,UK
-Lemony Snicket's A Series of Unfortun…,2004-12-17 00:00:00,2004,12,172925628,118627117,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 9 wins & 28 nominations.,62,6.8,72%,PG,Brad Silberling,108 min,Paramount Pictures,"Germany, USA"
+Lemony Snicket's A Series of Unfortun…,2004-12-17,2004,12,172925628,118627117,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 9 wins & 28 nominations.,62.0,6.8,72%,PG,Brad Silberling,108 min,Paramount Pictures,"Germany, USA"
 Another 48 Hrs.,1990-06-08,1990,6,172803773,80047413,Action,No,0.0,23,0.0,,23.0,5.9,18%,R,Walter Hill,93 min,Paramount Pictures,USA
 Philadelphia,1993-12-22,1993,12,172627002,77324422,Drama,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 18 wins & 22 nominations.,66.0,7.7,80%,PG-13,Jonathan Demme,125 min,Sony/TriStar,USA
 The Jewel of the Nile,1985-12-11,1985,12,172493778,68275764,Adventure,No,0.0,23,0.0,,53.0,6.1,50%,PG,Lewis Teague,106 min,20th Century Fox,USA
@@ -630,12 +630,12 @@ Divergent,2014-03-21,2014,3,168315212,150947895,Adventure,No,0.0,25,0.0,7 wins &
 X-Men: First Class,2011-06-03,2011,6,168194158,146408305,Action,No,0.0,25,0.0,21 wins & 39 nominations.,65.0,7.7,86%,PG-13,Matthew Vaughn,131 min,20th Century Fox,"USA, UK"
 Witness,1985-02-08,1985,2,168169507,65532576,Thriller/Suspense,No,0.0,23,0.0,Nominated for 6 Oscars. Another 3 wins & 9 nominations.,,8.4,100%,Approved,Billy Wilder,116 min,Paramount Pictures,USA
 American Hustle,2013-12-13,2013,12,167850292,150098456,Black Comedy,No,0.0,25,0.0,Nominated for 10 Oscars. Another 70 wins & 216 nominations.,90.0,7.2,92%,R,David O. Russell,138 min,Sony Pictures,"USA, China"
-Dodgeball: A True Underdog Story,2004-06-18 00:00:00,2004,6,167716029,114326736,Comedy,No,0.0,25,0.0,2 wins & 9 nominations.,55,6.7,70%,PG-13,Rawson Marshall Thurber,92 min,20th Century Fox,USA
+Dodgeball: A True Underdog Story,2004-06-18,2004,6,167716029,114326736,Comedy,No,0.0,25,0.0,2 wins & 9 nominations.,55.0,6.7,70%,PG-13,Rawson Marshall Thurber,92 min,20th Century Fox,USA
 San Andreas,2015-05-29,2015,5,167709188,155190832,Adventure,No,0.0,25,0.0,2 wins & 10 nominations.,43.0,6.0,50%,PG-13,Brad Peyton,114 min,Warner Bros.,USA
 Bee Movie,2007-11-02,2007,11,167559109,126631277,Adventure,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 1 win & 14 nominations.,54.0,6.1,50%,PG,"Simon J. Smith, Steve Hickner",91 min,Paramount Pictures,"USA, Australia"
 The Village,2004-07-30,2004,7,167526468,114197520,Thriller/Suspense,No,0.0,25,0.0,Nominated for 1 Oscar. Another 4 wins & 22 nominations.,44.0,6.5,43%,PG-13,M. Night Shyamalan,108 min,Walt Disney,USA
 Hotel Transylvania 3: Summer Vacation,2018-07-13,2018,7,167500092,167500092,Adventure,No,0.0,25,0.0,2 wins & 8 nominations.,54.0,6.3,62%,PG,Genndy Tartakovsky,97 min,Sony Pictures,"USA, South Korea"
-Disney’s A Christmas Carol,2009-11-06 00:00:00,2009,11,167424190,137855863,Drama,No,0.0,25,0.0,3 wins & 5 nominations.,55,6.8,52%,PG,Robert Zemeckis,96 min,Walt Disney,USA
+Disney’s A Christmas Carol,2009-11-06,2009,11,167424190,137855863,Drama,No,0.0,25,0.0,3 wins & 5 nominations.,55.0,6.8,52%,PG,Robert Zemeckis,96 min,Walt Disney,USA
 White Men Can't Jump,1992-03-27,1992,3,167390884,76253806,Comedy,No,0.0,23,0.0,4 nominations.,65.0,6.8,76%,R,Ron Shelton,115 min,20th Century Fox,USA
 Neighbors,2014-05-09,2014,5,167355045,150086800,Comedy,No,0.0,25,0.0,6 wins & 11 nominations.,68.0,6.3,73%,R,Nicholas Stoller,97 min,Universal,USA
 Star Trek Beyond,2016-07-22,2016,7,167295758,158848340,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 3 wins & 27 nominations.,68.0,7.1,86%,PG-13,Justin Lin,122 min,Paramount Pictures,"USA, China, United Arab Emirates, Canada"
@@ -653,7 +653,7 @@ The Smurfs,2011-07-29,2011,7,163835424,142614158,Adventure,No,0.0,25,0.0,2 wins 
 X-Men: Apocalypse,2016-05-27,2016,5,163708786,155442489,Action,No,0.0,25,0.0,1 win & 19 nominations.,52.0,6.9,47%,PG-13,Bryan Singer,144 min,20th Century Fox,USA
 The Haunting,1999-07-23,1999,7,163529702,91188905,Horror,No,0.0,23,0.0,4 wins & 14 nominations.,42.0,5.0,16%,PG-13,Jan de Bont,113 min,Dreamworks SKG,"USA, UK"
 Road to Perdition,2002-07-12,2002,7,163156037,104054514,Drama,Yes,1.0,25,4.0,Won 1 Oscar. Another 22 wins & 82 nominations.,72.0,7.7,81%,R,Sam Mendes,117 min,Dreamworks SKG,USA
-The X Files: Fight the Future,1998-06-19 00:00:00,1998,6,162966658,83898313,Action,No,0.0,24,0.0,7 wins & 11 nominations.,60,7.0,66%,PG-13,Rob Bowman,121 min,20th Century Fox,USA
+The X Files: Fight the Future,1998-06-19,1998,6,162966658,83898313,Action,No,0.0,24,0.0,7 wins & 11 nominations.,60.0,7.0,66%,PG-13,Rob Bowman,121 min,20th Century Fox,USA
 The Prince of Tides,1991-12-25,1991,12,162928542,74787599,Drama,No,0.0,23,0.0,Nominated for 7 Oscars. Another 3 wins & 11 nominations.,65.0,6.7,69%,R,Barbra Streisand,132 min,Sony Pictures,USA
 Beetlejuice,1988-03-30,1988,3,162531847,73839613,Comedy,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 6 wins & 11 nominations.,70.0,7.5,84%,PG,Tim Burton,92 min,Warner Bros.,USA
 The Great Gatsby,2013-05-10,2013,5,162299651,144840419,Drama,Yes,2.0,25,8.0,Won 2 Oscars. Another 48 wins & 85 nominations.,55.0,7.2,48%,PG-13,Baz Luhrmann,143 min,Warner Bros.,"Australia, USA"
@@ -677,7 +677,7 @@ The Big Chill,1983-09-28,1983,9,159949299,56077501,Comedy,No,0.0,23,0.0,Nominate
 How to Lose a Guy in 10 Days,2003-02-07,2003,2,159851822,105807520,Romantic Comedy,No,0.0,25,0.0,1 win & 8 nominations.,45.0,6.4,42%,PG-13,Donald Petrie,116 min,Paramount Pictures,"USA, Germany"
 The King’s Speech,2010-11-26,2010,11,159584343,138797449,Drama,Yes,4.0,25,16.0,Won 4 Oscars. Another 106 wins & 204 nominations.,88.0,8.0,94%,R,Tom Hooper,118 min,Weinstein Co.,"UK, USA, Australia"
 Father of the Bride Part II,1995-12-08,1995,12,159569202,76578911,Comedy,No,0.0,24,0.0,Nominated for 1 Golden Globe. Another 1 win & 1 nomination.,49.0,6.0,48%,PG,Charles Shyer,106 min,Walt Disney,USA
-Fantastic Beasts: The Crimes of Grind…,2018-11-16 00:00:00,2018,11,159555902,159555901,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 14 wins & 53 nominations.,66,7.3,74%,PG-13,David Yates,132 min,Warner Bros.,"UK, USA"
+Fantastic Beasts: The Crimes of Grind…,2018-11-16,2018,11,159555902,159555901,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 14 wins & 53 nominations.,66.0,7.3,74%,PG-13,David Yates,132 min,Warner Bros.,"UK, USA"
 The Verdict,1982-12-08,1982,12,159488032,53977250,Drama,No,0.0,23,0.0,Nominated for 5 Oscars. Another 3 wins & 9 nominations.,77.0,7.7,88%,R,Sidney Lumet,129 min,20th Century Fox,USA
 Stargate,1994-10-28,1994,10,159420472,71565669,Action,No,0.0,23,0.0,6 wins & 6 nominations.,42.0,7.1,52%,PG-13,Roland Emmerich,116 min,MGM,"USA, France"
 Halloween,2018-10-19,2018,10,159347015,159347015,Horror,No,0.0,25,0.0,6 wins & 2 nominations.,87.0,7.8,96%,R,John Carpenter,91 min,Universal,USA
@@ -687,7 +687,7 @@ National Lampoon's Christmas Vacation,1989-12-01,1989,12,159089825,71319546,Come
 Urban Cowboy,1980-06-06,1980,6,158894270,46918287,Drama,No,0.0,22,0.0,Nominated for 2 Golden Globes. Another 4 nominations.,61.0,6.3,73%,PG,James Bridges,132 min,Paramount Pictures,USA
 The Secret Life of Pets 2,2019-06-07,2019,6,158874395,158874395,Adventure,No,0.0,25,0.0,11 nominations.,55.0,6.5,60%,PG,"Chris Renaud, Jonathan del Val(co-director)",86 min,Universal,"USA, France, Japan"
 Reds,1981-12-04,1981,12,158607341,50000000,Drama,Yes,3.0,23,13.043478260869565,Won 3 Oscars. Another 19 wins & 34 nominations.,76.0,7.3,89%,PG,Warren Beatty,195 min,Paramount Pictures,USA
-I Now Pronounce You Chuck and Larry,2007-07-20 00:00:00,2007,7,158531582,119725280,Comedy,No,0.0,25,0.0,14 nominations.,37,5.9,15%,PG-13,Dennis Dugan,115 min,Universal,USA
+I Now Pronounce You Chuck and Larry,2007-07-20,2007,7,158531582,119725280,Comedy,No,0.0,25,0.0,14 nominations.,37.0,5.9,15%,PG-13,Dennis Dugan,115 min,Universal,USA
 21 Jump Street,2012-03-16,2012,3,158449519,138447667,Comedy,No,0.0,25,0.0,11 wins & 21 nominations.,69.0,7.2,84%,R,"Phil Lord, Christopher Miller",109 min,Sony Pictures,USA
 The English Patient,1996-11-15,1996,11,158375200,78716374,Drama,Yes,9.0,24,37.5,Won 9 Oscars. Another 53 wins & 76 nominations.,87.0,7.4,85%,R,Anthony Minghella,162 min,Miramax,"USA, UK"
 Braveheart,1995-05-24,1995,5,157928892,75545647,Drama,Yes,5.0,24,20.833333333333336,Won 5 Oscars. Another 28 wins & 32 nominations.,68.0,8.3,78%,R,Mel Gibson,178 min,Paramount Pictures,USA
@@ -710,7 +710,7 @@ Ocean's Thirteen,2007-06-08,2007,6,155114248,117144465,Adventure,No,0.0,25,0.0,1
 Argo,2012-10-12,2012,10,155057156,136025503,Thriller/Suspense,Yes,3.0,25,12.0,Won 3 Oscars. Another 93 wins & 153 nominations.,86.0,7.7,96%,R,Ben Affleck,120 min,Warner Bros.,"USA, UK"
 Daredevil,2003-02-14,2003,2,154920633,102543518,Action,No,0.0,25,0.0,5 wins & 17 nominations.,42.0,5.3,44%,PG-13,Mark Steven Johnson,103 min,20th Century Fox,"USA, China"
 La La Land,2016-12-09,2016,12,154747653,151101803,Musical,Yes,6.0,25,24.0,Won 6 Oscars. Another 237 wins & 287 nominations.,94.0,8.0,91%,PG-13,Damien Chazelle,128 min,Lionsgate,"USA, Hong Kong"
-3 Men and a Little Lady,1990-11-21 00:00:00,1990,11,154652645,71609321,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,51,5.4,38%,PG,Emile Ardolino,104 min,Walt Disney,USA
+3 Men and a Little Lady,1990-11-21,1990,11,154652645,71609321,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,51.0,5.4,38%,PG,Emile Ardolino,104 min,Walt Disney,USA
 The Conjuring,2013-07-19,2013,7,153962516,137400141,Horror,No,0.0,25,0.0,15 wins & 22 nominations.,68.0,7.5,86%,R,James Wan,112 min,Warner Bros.,USA
 Boomerang,1992-07-01,1992,7,153777766,70052444,Comedy,No,0.0,23,0.0,1 win & 5 nominations.,45.0,5.5,44%,R,Reginald Hudlin,117 min,Paramount Pictures,USA
 Pokemon: The First Movie,1999-11-10,1999,11,153595948,85744662,Adventure,No,0.0,23,0.0,3 wins & 6 nominations.,35.0,6.3,15%,G,"Kunihiko Yuyama, Michael Haigney",96 min,Warner Bros.,Japan
@@ -784,7 +784,7 @@ Pokémon: Detective Pikachu,2019-05-10,2019,5,144105346,144105346,Adventure,No,0
 The Fox and the Hound,1981-07-10,1981,7,143856830,43899231,Adventure,No,0.0,23,0.0,1 win & 2 nominations.,65.0,7.3,70%,G,"Ted Berman, Richard Rich, Art Stevens, David Hand, Wolfgang Reitherman",83 min,Walt Disney,USA
 The Godfather: Part III,1990-12-25,1990,12,143714058,66520529,Drama,No,0.0,23,0.0,Nominated for 7 Oscars. Another 6 wins & 16 nominations.,60.0,7.6,69%,R,Francis Ford Coppola,162 min,Paramount Pictures,USA
 I Know What You Did Last Summer,1997-10-17,1997,10,143321171,72250091,Horror,No,0.0,24,0.0,3 wins & 7 nominations.,52.0,5.7,42%,R,Jim Gillespie,101 min,Sony Pictures,USA
-Grand Canyon: The Hidden Secrets,1984-06-16 00:00:00,1984,6,143157136,52800000,Documentary,No,0.0,23,0.0,N/A,N/A,6.7,,N/A,Kieth Merrill,35 min,,USA
+Grand Canyon: The Hidden Secrets,1984-06-16,1984,6,143157136,52800000,Documentary,No,0.0,23,0.0,,,6.7,,,Kieth Merrill,35 min,,USA
 The Vow,2012-02-10,2012,2,143075101,125014030,Drama,No,0.0,25,0.0,3 wins & 14 nominations.,43.0,6.8,31%,PG-13,Michael Sucsy,104 min,Sony Pictures,"USA, Canada"
 Million Dollar Baby,2004-12-15,2004,12,142872176,100492203,Drama,Yes,4.0,25,16.0,Won 4 Oscars. Another 64 wins & 84 nominations.,86.0,8.1,91%,PG-13,Clint Eastwood,132 min,Warner Bros.,USA
 Anchorman 2: The Legend Continues,2013-12-18,2013,12,142669451,127413176,Comedy,No,0.0,25,0.0,1 win & 23 nominations.,61.0,6.3,74%,PG-13,Adam McKay,119 min,Paramount Pictures,USA
@@ -801,10 +801,10 @@ The Talented Mr. Ripley,1999-12-24,1999,12,141499326,81292135,Drama,No,0.0,23,0.
 Into the Woods,2014-12-25,2014,12,141452728,128002372,Musical,No,0.0,25,0.0,Nominated for 3 Oscars. Another 11 wins & 71 nominations.,69.0,5.9,71%,PG,Rob Marshall,125 min,Walt Disney,USA
 The Nightmare Before Christmas,1993-10-13,1993,10,141447745,75069160,Musical,No,0.0,23,0.0,Nominated for 1 Oscar. Another 7 wins & 16 nominations.,82.0,8.0,95%,PG,Henry Selick,76 min,Walt Disney,USA
 Master and Commander: The Far Side of…,2003-11-14,2003,11,141423840,93926386,Adventure,Yes,2.0,25,8.0,Won 2 Oscars. Another 21 wins & 90 nominations.,81.0,7.4,85%,PG-13,Peter Weir,138 min,20th Century Fox,USA
-Cheech & Chong's Next Movie,1980-07-18 00:00:00,1980,7,141137923,41675194,Comedy,No,0.0,22,0.0,1 nomination.,66,6.1,66/100,R,Tommy Chong,99 min,Universal,USA
+Cheech & Chong's Next Movie,1980-07-18,1980,7,141137923,41675194,Comedy,No,0.0,22,0.0,1 nomination.,66.0,6.1,66/100,R,Tommy Chong,99 min,Universal,USA
 Lucy,2014-07-25,2014,7,141136930,126573960,Action,No,0.0,25,0.0,1 win & 12 nominations.,61.0,6.4,67%,R,Luc Besson,89 min,Universal,"France, Germany, Taiwan, Canada, USA"
 A Fish Called Wanda,1988-07-15,1988,7,140735088,63493000,Comedy,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 8 wins & 18 nominations.,80.0,7.5,94%,R,"Charles Crichton, John Cleese",108 min,MGM,"UK, USA"
-The Divergent Series: Insurgent,2015-03-20 00:00:00,2015,3,140679872,130179072,Action,No,0.0,25,0.0,3 wins & 17 nominations.,42,6.2,28%,PG-13,Robert Schwentke,119 min,Lionsgate,USA
+The Divergent Series: Insurgent,2015-03-20,2015,3,140679872,130179072,Action,No,0.0,25,0.0,3 wins & 17 nominations.,42.0,6.2,28%,PG-13,Robert Schwentke,119 min,Lionsgate,USA
 Antarctica,1991-10-18,1991,10,140653198,65000000,Documentary,No,0.0,23,0.0,17 wins & 3 nominations.,69.0,7.6,87%,PG,Anthony Powell,91 min,,New Zealand
 The Peanuts Movie,2015-11-06,2015,11,140625759,130178411,Adventure,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 2 wins & 47 nominations.,67.0,7.1,87%,G,Steve Martino,88 min,20th Century Fox,USA
 Scent of a Woman,1992-12-23,1992,12,140561971,63895607,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 5 wins & 14 nominations.,59.0,8.0,88%,R,Martin Brest,156 min,Universal,USA
@@ -834,11 +834,11 @@ The Other Guys,2010-08-06,2010,8,137654496,119219978,Comedy,No,0.0,25,0.0,3 wins
 The Crying Game,1992-11-25,1992,11,137604291,62546695,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 21 wins & 46 nominations.,90.0,7.2,94%,R,Neil Jordan,112 min,Miramax,"UK, Japan"
 Bad Boys,1995-04-07,1995,4,137482280,65647413,Action,No,0.0,24,0.0,1 win & 3 nominations.,41.0,6.9,43%,R,Michael Bay,119 min,Sony Pictures,USA
 G.I. Joe: Retaliation,2013-03-27,2013,3,137292137,122523060,Action,No,0.0,25,0.0,1 win & 11 nominations.,41.0,5.8,29%,PG-13,Jon M. Chu,110 min,Paramount Pictures,USA
-"Legally Blonde 2: Red, White & Blonde",2003-07-02 00:00:00,2003,7,136935662,90639088,Comedy,No,0.0,25,0.0,3 wins & 5 nominations.,47,4.8,37%,PG-13,Charles Herman-Wurmfeld,95 min,MGM,USA
+"Legally Blonde 2: Red, White & Blonde",2003-07-02,2003,7,136935662,90639088,Comedy,No,0.0,25,0.0,3 wins & 5 nominations.,47.0,4.8,37%,PG-13,Charles Herman-Wurmfeld,95 min,MGM,USA
 Salt,2010-07-23,2010,7,136605397,118311368,Thriller/Suspense,No,0.0,25,0.0,Nominated for 1 Oscar. Another 4 wins & 15 nominations.,65.0,6.4,62%,PG-13,Phillip Noyce,100 min,Sony Pictures,USA
 Amadeus,1984-09-19,1984,9,136261559,51973029,Drama,Yes,8.0,23,34.78260869565217,Won 8 Oscars. Another 34 wins & 14 nominations.,88.0,8.3,93%,R,Milos Forman,160 min,Warner Bros.,"USA, France, Czechoslovakia, Italy"
 Blade,1998-08-21,1998,8,136245726,70141876,Action,No,0.0,24,0.0,Nominated for 2 Oscars. Another 12 wins & 16 nominations.,84.0,8.1,90%,R,Ridley Scott,117 min,New Line,USA
-The Living Sea,1995-02-01 00:00:00,1995,2,135707580,64800000,Documentary,No,0.0,24,0.0,N/A,N/A,7.2,,Not Rated,Greg MacGillivray,40 min,IMAX Films,USA
+The Living Sea,1995-02-01,1995,2,135707580,64800000,Documentary,No,0.0,24,0.0,,,7.2,,Not Rated,Greg MacGillivray,40 min,IMAX Films,USA
 Jackass 3D,2010-10-15,2010,10,135355761,117229692,Comedy,No,0.0,25,0.0,1 win & 4 nominations.,56.0,7.0,65%,R,Jeff Tremaine,94 min,Paramount Pictures,USA
 Atlantis: The Lost Empire,2001-06-08,2001,6,135286333,84052762,Adventure,No,0.0,25,0.0,2 wins & 14 nominations.,52.0,6.9,49%,PG,"Gary Trousdale, Kirk Wise",95 min,Walt Disney,USA
 Ghostbusters,2016-07-15,2016,7,135176148,128350574,Comedy,No,0.0,25,0.0,Nominated for 2 Oscars. Another 6 wins & 6 nominations.,71.0,7.8,97%,PG,Ivan Reitman,105 min,Sony Pictures,USA
@@ -847,7 +847,7 @@ Caddyshack,1980-07-25,1980,7,134944307,39846344,Comedy,No,0.0,22,0.0,1 nominatio
 Friday the 13th,1980-05-09,1980,5,134633611,39754601,Horror,No,0.0,22,0.0,5 nominations.,22.0,6.5,64%,R,Sean S. Cunningham,95 min,Paramount Pictures,USA
 Star Trek: Insurrection,1998-12-11,1998,12,134614744,70187658,Adventure,No,0.0,24,0.0,3 wins & 8 nominations.,64.0,6.4,54%,PG,Jonathan Frakes,103 min,Paramount Pictures,USA
 Mystic River,2003-10-08,2003,10,134605151,90135191,Drama,Yes,2.0,25,8.0,Won 2 Oscars. Another 55 wins & 142 nominations.,84.0,7.9,88%,R,Clint Eastwood,138 min,Warner Bros.,"USA, Australia"
-Spy Kids 2: The Island of Lost Dreams,2002-08-07 00:00:00,2002,8,134590019,85846296,Adventure,No,0.0,25,0.0,3 wins & 3 nominations.,66,5.1,75%,PG,Robert Rodriguez,100 min,Miramax/Dimension,USA
+Spy Kids 2: The Island of Lost Dreams,2002-08-07,2002,8,134590019,85846296,Adventure,No,0.0,25,0.0,3 wins & 3 nominations.,66.0,5.1,75%,PG,Robert Rodriguez,100 min,Miramax/Dimension,USA
 Wonder,2017-11-17,2017,11,134320054,132422809,Drama,No,0.0,25,0.0,24 wins & 70 nominations.,76.0,7.4,93%,PG-13,Patty Jenkins,141 min,Lionsgate,"USA, China, Hong Kong"
 Lost In Space,1998-04-03,1998,4,134256202,69117629,Adventure,No,0.0,24,0.0,3 wins & 17 nominations.,42.0,5.2,28%,PG-13,Stephen Hopkins,130 min,New Line,USA
 Cloudy with a Chance of Meatballs 2,2013-09-27,2013,9,134221657,119793567,Adventure,No,0.0,25,0.0,16 nominations.,59.0,6.4,71%,PG,"Cody Cameron, Kris Pearn",95 min,Sony Pictures,USA
@@ -901,7 +901,7 @@ Honey I Blew Up the Kid,1992-07-17,1992,7,128774678,58662452,Adventure,No,0.0,23
 Eagle Eye,2008-09-26,2008,9,128706126,101440743,Thriller/Suspense,No,0.0,25,0.0,3 wins & 8 nominations.,43.0,6.6,26%,PG-13,D.J. Caruso,118 min,Paramount Pictures,"USA, Germany"
 HouseSitter,1992-06-12,1992,6,128419461,58500635,Comedy,No,0.0,23,0.0,,,6.1,37%,PG,Frank Oz,102 min,Universal,USA
 Death Becomes Her,1992-07-31,1992,7,128248266,58422650,Comedy,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 4 wins & 16 nominations.,56.0,6.6,56/100,PG-13,Robert Zemeckis,104 min,Universal,USA
-Blade 2,2002-03-22 00:00:00,2002,3,128068234,81676888,Action,No,0.0,25,0.0,6 wins & 10 nominations.,52,6.7,57%,R,Guillermo del Toro,117 min,New Line,"Germany, USA"
+Blade 2,2002-03-22,2002,3,128068234,81676888,Action,No,0.0,25,0.0,6 wins & 10 nominations.,52.0,6.7,57%,R,Guillermo del Toro,117 min,New Line,"Germany, USA"
 Demolition Man,1993-10-08,1993,10,127982136,58055768,Action,No,0.0,23,0.0,1 win & 7 nominations.,34.0,6.7,60%,R,Marco Brambilla,115 min,Warner Bros.,USA
 The Specialist,1994-10-07,1994,10,127914576,57362581,Action,No,0.0,23,0.0,4 wins & 7 nominations.,,5.6,7%,R,Luis Llosa,110 min,Warner Bros.,USA
 Stand by Me,1986-08-08,1986,8,127821217,52287414,Drama,No,0.0,23,0.0,Nominated for 1 Oscar. Another 5 wins & 10 nominations.,75.0,8.1,91%,R,Rob Reiner,89 min,Sony Pictures,USA
@@ -919,14 +919,14 @@ You Don't Mess With the Zohan,2008-06-06,2008,6,126904122,100018837,Comedy,No,0.
 National Lampoon's European Vacation,1985-07-26,1985,7,126770132,49400000,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,47.0,6.2,36%,PG-13,Amy Heckerling,95 min,Warner Bros.,USA
 Norbit,2007-02-09,2007,2,126684088,95673607,Comedy,No,0.0,25,0.0,Nominated for 1 Oscar. Another 8 wins & 8 nominations.,27.0,4.1,9%,PG-13,Brian Robbins,102 min,Paramount Pictures,USA
 In & Out,1997-09-19,1997,9,126662425,63826569,Comedy,No,0.0,24,0.0,Nominated for 1 Oscar. Another 7 wins & 17 nominations.,70.0,6.4,71%,PG-13,Frank Oz,90 min,Paramount Pictures,USA
-Artificial Intelligence: AI,2001-06-29 00:00:00,2001,6,126536752,78616689,Drama,No,0.0,25,0.0,Nominated for 2 Oscars. Another 17 wins & 68 nominations.,65,7.2,74%,PG-13,Steven Spielberg,146 min,Warner Bros.,"USA, UK"
+Artificial Intelligence: AI,2001-06-29,2001,6,126536752,78616689,Drama,No,0.0,25,0.0,Nominated for 2 Oscars. Another 17 wins & 68 nominations.,65.0,7.2,74%,PG-13,Steven Spielberg,146 min,Warner Bros.,"USA, UK"
 Sister Act 2 Back in the Habit,1993-12-10,1993,12,126400621,57319029,Comedy,No,0.0,23,0.0,1 win & 3 nominations.,38.0,5.6,17%,PG,Bill Duke,107 min,Walt Disney,USA
 La Bamba,1987-07-24,1987,7,126317757,54215416,Drama,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 3 wins & 2 nominations.,65.0,6.9,91%,PG-13,Luis Valdez,108 min,Sony Pictures,USA
 Mean Girls,2004-04-30,2004,4,126230310,86047227,Comedy,No,0.0,25,0.0,7 wins & 25 nominations.,66.0,7.0,84%,PG-13,Mark Waters,97 min,Paramount Pictures,"USA, Canada"
 The Fifth Element,1997-05-09,1997,5,126172234,63570862,Action,No,0.0,24,0.0,Nominated for 1 Oscar. Another 10 wins & 38 nominations.,52.0,7.7,70%,PG-13,Luc Besson,126 min,Sony Pictures,"France, UK, USA"
 Scary Movie 4,2006-04-14,2006,4,126163925,90710620,Comedy,No,0.0,25,0.0,1 win & 3 nominations.,40.0,5.1,35%,PG-13,David Zucker,83 min,Weinstein/Dimension,USA
 Species,1995-07-07,1995,7,125769198,60054449,Action,No,0.0,24,0.0,3 wins & 6 nominations.,49.0,5.8,43%,R,Roger Donaldson,108 min,MGM,USA
-The Hangover 3,2013-05-23 00:00:00,2013,5,125724796,112200072,Comedy,No,0.0,25,0.0,2 wins & 7 nominations.,30,5.8,20%,R,Todd Phillips,100 min,Warner Bros.,USA
+The Hangover 3,2013-05-23,2013,5,125724796,112200072,Comedy,No,0.0,25,0.0,2 wins & 7 nominations.,30.0,5.8,20%,R,Todd Phillips,100 min,Warner Bros.,USA
 Brubaker,1980-06-20,1980,6,125717007,37121708,Drama,No,0.0,22,0.0,Nominated for 1 Oscar. Another 1 win & 1 nomination.,54.0,7.2,75%,R,Stuart Rosenberg,131 min,20th Century Fox,USA
 The Princess and the Frog,2009-11-25,2009,11,125699042,104400899,Adventure,No,0.0,25,0.0,Nominated for 3 Oscars. Another 11 wins & 38 nominations.,73.0,7.1,85%,G,"Ron Clements, John Musker",97 min,Walt Disney,USA
 My Girl,1991-11-27,1991,11,125530789,58011485,Comedy,No,0.0,23,0.0,2 wins & 5 nominations.,56.0,6.9,53%,PG,Howard Zieff,102 min,Sony Pictures,USA
@@ -934,13 +934,13 @@ Unlawful Entry,1992-06-26,1992,6,125429814,57138719,Thriller/Suspense,No,0.0,23,
 The Family Man,2000-12-22,2000,12,125423938,75764085,Comedy,No,0.0,24,0.0,4 wins & 6 nominations.,42.0,6.8,53%,PG-13,Brett Ratner,125 min,Universal,USA
 The American President,1995-11-17,1995,11,125405955,60022813,Romantic Comedy,No,0.0,24,0.0,Nominated for 1 Oscar. Another 1 win & 9 nominations.,67.0,6.8,91%,PG-13,Rob Reiner,114 min,Sony Pictures,USA
 Night at the Museum: Secret of the Tomb,2014-12-19,2014,12,125307066,113746621,Adventure,No,0.0,25,0.0,1 win & 4 nominations.,47.0,6.2,47%,PG,Shawn Levy,98 min,20th Century Fox,"UK, USA"
-SpongeBob SquarePants: The Movie,2004-11-19 00:00:00,2004,11,125144234,85416609,Adventure,No,0.0,25,0.0,1 win & 10 nominations.,66,7.1,68%,PG,"Stephen Hillenburg, Mark Osborne",87 min,Paramount Pictures,USA
+SpongeBob SquarePants: The Movie,2004-11-19,2004,11,125144234,85416609,Adventure,No,0.0,25,0.0,1 win & 10 nominations.,66.0,7.1,68%,PG,"Stephen Hillenburg, Mark Osborne",87 min,Paramount Pictures,USA
 Tombstone,1993-12-25,1993,12,125121186,56505065,Western,No,0.0,23,0.0,2 nominations.,50.0,7.8,74%,R,"George P. Cosmatos, Kevin Jarre",130 min,Walt Disney,USA
 Beethoven,1992-04-03,1992,4,125080245,56979478,Comedy,No,0.0,23,0.0,1 win & 4 nominations.,,5.7,30%,PG,Brian Levant,87 min,Universal,USA
 Freddy vs. Jason,2003-08-15,2003,8,124824601,82622655,Horror,No,0.0,25,0.0,2 wins & 11 nominations.,37.0,5.7,41%,R,Ronny Yu,97 min,New Line,"Canada, USA"
 Jingle All the Way,1996-11-22,1996,11,124628189,60592389,Adventure,No,0.0,24,0.0,2 wins & 4 nominations.,34.0,5.6,15%,PG,Brian Levant,89 min,20th Century Fox,USA
 RoboCop,1987-07-17,1987,7,124475405,53424681,Action,No,0.0,23,0.0,Nominated for 2 Oscars. Another 11 wins & 10 nominations.,67.0,7.5,90%,R,Paul Verhoeven,102 min,Orion Pictures,USA
-"Greystoke: The Legend of Tarzan, Lord…",1984-03-30 00:00:00,1984,3,124449105,45900000,Adventure,No,0.0,23,0.0,Nominated for 3 Oscars. Another 3 wins & 13 nominations.,62,6.4,73%,PG,Hugh Hudson,135 min,Warner Bros.,"UK, USA"
+"Greystoke: The Legend of Tarzan, Lord…",1984-03-30,1984,3,124449105,45900000,Adventure,No,0.0,23,0.0,Nominated for 3 Oscars. Another 3 wins & 13 nominations.,62.0,6.4,73%,PG,Hugh Hudson,135 min,Warner Bros.,"UK, USA"
 Mr. Peabody & Sherman,2014-03-07,2014,3,124335803,111506430,Adventure,No,0.0,25,0.0,2 wins & 16 nominations.,59.0,6.8,81%,PG,Rob Minkoff,92 min,20th Century Fox,USA
 The Thomas Crown Affair,1999-08-06,1999,8,124281563,69304264,Drama,No,0.0,23,0.0,3 wins & 2 nominations.,72.0,6.8,70%,R,John McTiernan,113 min,MGM,USA
 Hop,2011-04-01,2011,4,124168617,108085305,Adventure,No,0.0,25,0.0,2 nominations.,41.0,5.4,25%,PG,Tim Hill,95 min,Universal,USA
@@ -965,7 +965,7 @@ Legal Eagles,1986-06-18,1986,6,122411853,49851591,Comedy,No,0.0,23,0.0,1 win.,57
 Blue Thunder,1983-05-13,1983,5,122372899,42313354,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 1 win & 2 nominations.,66.0,6.4,81%,R,John Badham,109 min,Sony Pictures,USA
 Blue Streak,1999-09-17,1999,9,122272070,68208190,Action,No,0.0,23,0.0,,46.0,6.3,36%,PG-13,Les Mayfield,93 min,Sony Pictures,"Germany, USA"
 Jaws 3-D,1983-07-22,1983,7,122175740,42245180,Horror,No,0.0,23,0.0,5 nominations.,27.0,3.7,13%,PG,Joe Alves,99 min,Universal,USA
-Mouse Hunt,1997-12-19 00:00:00,1997,12,121922155,61894591,Adventure,No,0.0,24,0.0,2 wins & 2 nominations.,54,6.4,42%,PG,Gore Verbinski,98 min,Dreamworks SKG,USA
+Mouse Hunt,1997-12-19,1997,12,121922155,61894591,Adventure,No,0.0,24,0.0,2 wins & 2 nominations.,54.0,6.4,42%,PG,Gore Verbinski,98 min,Dreamworks SKG,USA
 The Dark Crystal,1982-12-17,1982,12,121901930,40577001,Adventure,No,0.0,23,0.0,Nominated for 1 BAFTA Film Award. Another 2 wins & 4 nominations.,66.0,7.2,79%,PG,"Jim Henson, Frank Oz",93 min,Universal,"USA, UK"
 Time Bandits,1981-11-06,1981,11,121880658,37400000,Adventure,No,0.0,23,0.0,1 win & 8 nominations.,79.0,7.0,89%,PG,Terry Gilliam,110 min,Avco Embassy,UK
 Robin Hood,2010-05-14,2010,5,121798213,105487148,Action,No,0.0,25,0.0,1 win & 14 nominations.,53.0,6.6,43%,PG-13,Ridley Scott,140 min,Universal,"USA, UK"
@@ -973,14 +973,14 @@ The Saint,1997-04-04,1997,4,121790779,61363304,Action,No,0.0,24,0.0,1 win & 2 no
 The Texas Chainsaw Massacre,2003-10-17,2003,10,121721525,80571655,Horror,No,0.0,25,0.0,4 wins & 17 nominations.,38.0,6.2,37%,R,Marcus Nispel,98 min,New Line,USA
 Courage Under Fire,1996-07-12,1996,7,121611039,59003384,Drama,No,0.0,24,0.0,9 wins & 7 nominations.,77.0,6.6,85%,R,Edward Zwick,116 min,20th Century Fox,USA
 Boyz n the Hood,1991-07-12,1991,7,121589485,56190094,Drama,No,0.0,23,0.0,Nominated for 2 Oscars. Another 11 wins & 21 nominations.,76.0,7.7,96%,R,John Singleton,112 min,Sony Pictures,USA
-Cheech & Chong's Nice Dreams,1981-06-05 00:00:00,1981,6,121248197,37000000,Comedy,No,0.0,23,0.0,N/A,54,6.2,43%,R,Tommy Chong,88 min,Columbia,USA
+Cheech & Chong's Nice Dreams,1981-06-05,1981,6,121248197,37000000,Comedy,No,0.0,23,0.0,,54.0,6.2,43%,R,Tommy Chong,88 min,Columbia,USA
 Scarface,1983-12-09,1983,12,121058463,44942821,Drama,No,0.0,23,0.0,Nominated for 3 Golden Globes. Another 4 nominations.,65.0,8.3,81%,R,Brian De Palma,170 min,Universal,USA
-To the Limit,1989-11-15 00:00:00,1989,11,121010025,53000000,Documentary,No,0.0,23,0.0,N/A,N/A,7.0,,NOT RATED,"Mike Hoover, Greg MacGillivray, Derek Hart(co-director)",35 min,,USA
+To the Limit,1989-11-15,1989,11,121010025,53000000,Documentary,No,0.0,23,0.0,,,7.0,,NOT RATED,"Mike Hoover, Greg MacGillivray, Derek Hart(co-director)",35 min,,USA
 Devil's Advocate,1997-10-17,1997,10,121003384,61007424,Drama,No,0.0,24,0.0,2 wins & 7 nominations.,60.0,7.5,67%,R,Taylor Hackford,144 min,Warner Bros.,"USA, Germany"
 Jack,1996-08-09,1996,8,120810543,58617334,Drama,No,0.0,24,0.0,1 win & 5 nominations.,50.0,7.0,63%,PG-13,Christopher McQuarrie,130 min,Walt Disney,USA
-Mamma Mia: Here We Go Again!,2018-07-20 00:00:00,2018,7,120634935,120634935,Musical,No,0.0,25,0.0,12 nominations.,60,6.7,79%,PG-13,Ol Parker,114 min,Universal,"UK, USA, Japan"
+Mamma Mia: Here We Go Again!,2018-07-20,2018,7,120634935,120634935,Musical,No,0.0,25,0.0,12 nominations.,60.0,6.7,79%,PG-13,Ol Parker,114 min,Universal,"UK, USA, Japan"
 Alien 3,1992-05-22,1992,5,120575068,54927174,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 5 wins & 24 nominations.,59.0,6.5,44%,R,David Fincher,114 min,20th Century Fox,USA
-Epic,2013-05-24 00:00:00,2013,5,120479112,107518682,Adventure,No,0.0,25,0.0,2 wins & 3 nominations.,17,2.4,2%,PG-13,"Jason Friedberg, Aaron Seltzer",86 min,20th Century Fox,USA
+Epic,2013-05-24,2013,5,120479112,107518682,Adventure,No,0.0,25,0.0,2 wins & 3 nominations.,17.0,2.4,2%,PG-13,"Jason Friedberg, Aaron Seltzer",86 min,20th Century Fox,USA
 The Chronicles of Narnia: The Voyage …,2010-12-10,2010,12,120426201,104386950,Adventure,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 2 wins & 17 nominations.,53.0,6.3,50%,PG,Michael Apted,113 min,20th Century Fox,"USA, UK"
 Cobra,1986-05-23,1986,5,120424434,49042224,Action,No,0.0,23,0.0,3 wins & 16 nominations.,32.0,5.8,34%,PG-13,Stephen Sommers,118 min,Cannon,"USA, Czech Republic"
 "10,000 B.C.",2008-03-07,2008,3,120262404,94784201,Adventure,No,0.0,25,0.0,,34.0,5.1,8%,PG-13,Roland Emmerich,109 min,Warner Bros.,"USA, South Africa"
@@ -1021,14 +1021,14 @@ Rise of the Guardians,2012-11-21,2012,11,118205019,103412758,Adventure,No,0.0,25
 The Three Musketeers,1993-11-12,1993,11,118127821,53661805,Adventure,No,0.0,23,0.0,5 nominations.,35.0,5.7,26%,PG-13,Paul W.S. Anderson,110 min,Walt Disney,"USA, Germany, France, UK"
 Public Enemies,2009-07-01,2009,7,117949739,97104620,Drama,No,0.0,25,0.0,1 win & 14 nominations.,70.0,7.0,68%,R,Michael Mann,140 min,Universal,"USA, Japan"
 Rookie of the Year,1993-07-07,1993,7,117900272,53579269,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,53.0,6.1,35%,PG,Daniel Stern,103 min,20th Century Fox,USA
-Fantasia 2000 (Theatrical Release),1999-12-31 00:00:00,1999,12,117890205,69610858,Musical,No,0.0,23,0.0,4 wins & 7 nominations.,59,7.2,81%,G,"James Algar, Gaëtan Brizzi, Paul Brizzi, Hendel Butoy, Francis Glebas, Eric Goldberg, Don Hahn, Pixote Hunt",75 min,Walt Disney,USA
+Fantasia 2000 (Theatrical Release),1999-12-31,1999,12,117890205,69610858,Musical,No,0.0,23,0.0,4 wins & 7 nominations.,59.0,7.2,81%,G,"James Algar, Gaëtan Brizzi, Paul Brizzi, Hendel Butoy, Francis Glebas, Eric Goldberg, Don Hahn, Pixote Hunt",75 min,Walt Disney,USA
 Monster-in-Law,2005-05-13,2005,5,117863358,82931301,Comedy,No,0.0,25,0.0,1 win & 10 nominations.,31.0,5.6,18%,PG-13,Robert Luketic,101 min,New Line,"USA, Germany"
 The Kid,2000-07-07,2000,7,117785003,69688384,Comedy,No,0.0,24,0.0,2 wins.,,8.3,100%,Passed,Charles Chaplin,68 min,Walt Disney,USA
 12 Monkeys,1995-12-27,1995,12,117783500,57141459,Drama,No,0.0,24,0.0,Nominated for 2 Oscars. Another 10 wins & 22 nominations.,74.0,8.0,90%,R,Terry Gilliam,129 min,Universal,USA
-AVP: Alien Vs. Predator,2004-08-13 00:00:00,2004,8,117771456,80281096,Horror,No,0.0,25,0.0,2 wins & 4 nominations.,29,5.6,21%,PG-13,Paul W.S. Anderson,101 min,20th Century Fox,"USA, UK, Czech Republic, Canada, Germany"
+AVP: Alien Vs. Predator,2004-08-13,2004,8,117771456,80281096,Horror,No,0.0,25,0.0,2 wins & 4 nominations.,29.0,5.6,21%,PG-13,Paul W.S. Anderson,101 min,20th Century Fox,"USA, UK, Czech Republic, Canada, Germany"
 The Breakfast Club,1985-02-15,1985,2,117724731,45875171,Comedy,No,0.0,23,0.0,3 wins.,66.0,7.9,89%,R,John Hughes,97 min,Universal,USA
 Four Weddings and a Funeral,1994-03-09,1994,3,117672686,52700832,Romantic Comedy,No,0.0,23,0.0,Nominated for 2 Oscars. Another 24 wins & 26 nominations.,81.0,7.0,96%,R,Mike Newell,117 min,Gramercy,UK
-Ford v. Ferrari,2019-11-15 00:00:00,2019,11,117624357,117624357,Drama,Yes,2.0,25,8.0,Won 2 Oscars. Another 21 wins & 73 nominations.,81,8.1,92%,PG-13,James Mangold,152 min,20th Century Fox,USA
+Ford v. Ferrari,2019-11-15,2019,11,117624357,117624357,Drama,Yes,2.0,25,8.0,Won 2 Oscars. Another 21 wins & 73 nominations.,81.0,8.1,92%,PG-13,James Mangold,152 min,20th Century Fox,USA
 The Girl with the Dragon Tattoo,2011-12-20,2011,12,117567146,102515793,Thriller/Suspense,Yes,1.0,25,4.0,Won 1 Oscar. Another 26 wins & 91 nominations.,71.0,7.8,86%,R,David Fincher,158 min,Sony Pictures,"USA, Sweden, Norway"
 Are We There Yet?,2005-01-21,2005,1,117498238,82674398,Romantic Comedy,No,0.0,25,0.0,1 win & 8 nominations.,27.0,4.7,12%,PG,Brian Levant,95 min,Sony Pictures,"USA, Canada"
 The Santa Clause 3: The Escape Clause,2006-11-03,2006,11,117462664,84500122,Adventure,No,0.0,25,0.0,4 wins & 9 nominations.,32.0,4.7,17%,G,Michael Lembeck,97 min,Walt Disney,"USA, Canada"
@@ -1056,15 +1056,15 @@ Deuce Bigalow: Male Gigolo,1999-12-10,1999,12,115546111,65535067,Comedy,No,0.0,2
 Yogi Bear,2010-12-17,2010,12,115545792,100246011,Adventure,No,0.0,25,0.0,2 wins & 2 nominations.,35.0,4.6,13%,PG,Eric Brevig,80 min,Warner Bros.,"USA, New Zealand"
 Bring it On,2000-08-25,2000,8,115528911,68353550,Comedy,No,0.0,24,0.0,2 wins & 7 nominations.,52.0,6.0,63%,PG-13,Peyton Reed,98 min,Universal,USA
 Problem Child,1990-07-27,1990,7,115431234,53470891,Comedy,No,0.0,23,0.0,1 nomination.,27.0,5.5,0%,PG,Dennis Dugan,81 min,Universal,USA
-Cowboys and Aliens,2011-07-29 00:00:00,2011,7,115303603,100368560,Action,No,0.0,25,0.0,1 win & 17 nominations.,50,6.0,44%,PG-13,Jon Favreau,119 min,Universal,"USA, India"
+Cowboys and Aliens,2011-07-29,2011,7,115303603,100368560,Action,No,0.0,25,0.0,1 win & 17 nominations.,50.0,6.0,44%,PG-13,Jon Favreau,119 min,Universal,"USA, India"
 Peter Rabbit,2018-02-09,2018,2,115234093,115234093,Adventure,No,0.0,25,0.0,4 wins & 14 nominations.,51.0,6.6,64%,PG,Will Gluck,95 min,Sony Pictures,"USA, Australia, UK"
 Bad Teacher,2011-06-24,2011,6,115216630,100292856,Comedy,No,0.0,25,0.0,6 wins & 4 nominations.,47.0,5.6,44%,R,Jake Kasdan,92 min,Sony Pictures,USA
 Chocolat,2000-12-15,2000,12,115118524,71309760,Drama,No,0.0,24,0.0,Nominated for 5 Oscars. Another 7 wins & 31 nominations.,64.0,7.2,62%,PG-13,Lasse Hallström,121 min,Miramax,"UK, USA"
 Bridget Jones's Diary,2001-04-13,2001,4,115083050,71500556,Romantic Comedy,No,0.0,25,0.0,Nominated for 1 Oscar. Another 8 wins & 29 nominations.,66.0,6.7,80%,R,Sharon Maguire,97 min,Miramax,"UK, France, USA"
 Life,1999-04-16,1999,4,114883887,64062587,Comedy,Yes,3.0,23,13.043478260869565,Won 3 Oscars. Another 67 wins & 51 nominations.,59.0,8.6,80%,PG-13,Roberto Benigni,116 min,Universal,Italy
-High School Musical 3: Senior Year,2008-10-24 00:00:00,2008,10,114883841,90559416,Musical,No,0.0,25,0.0,8 wins & 9 nominations.,57,4.8,64%,G,Kenny Ortega,112 min,Walt Disney,USA
+High School Musical 3: Senior Year,2008-10-24,2008,10,114883841,90559416,Musical,No,0.0,25,0.0,8 wins & 9 nominations.,57.0,4.8,64%,G,Kenny Ortega,112 min,Walt Disney,USA
 Arachnophobia,1990-07-18,1990,7,114864100,53208180,Thriller/Suspense,No,0.0,23,0.0,2 wins & 5 nominations.,67.0,6.4,92%,PG-13,Frank Marshall,109 min,Walt Disney,USA
-Gnomeo and Juliet,2011-02-11 00:00:00,2011,2,114843056,99967670,Comedy,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 1 win & 11 nominations.,53,5.9,56%,G,Kelly Asbury,84 min,Walt Disney,"UK, USA, Canada"
+Gnomeo and Juliet,2011-02-11,2011,2,114843056,99967670,Comedy,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 1 win & 11 nominations.,53.0,5.9,56%,G,Kelly Asbury,84 min,Walt Disney,"UK, USA, Canada"
 Spirit: Stallion of the Cimarron,2002-05-24,2002,5,114800594,73215310,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 10 wins & 21 nominations.,52.0,7.1,70%,G,"Kelly Asbury, Lorna Cook",83 min,Dreamworks SKG,USA
 Dumbo,2019-03-29,2019,3,114766307,114766307,Adventure,Yes,1.0,25,4.0,Won 1 Oscar. Another 4 wins & 1 nomination.,96.0,7.2,98%,G,"Samuel Armstrong, Norman Ferguson, Wilfred Jackson, Jack Kinney, Bill Roberts, Ben Sharpsteen, John Elliotte",64 min,Walt Disney,USA
 Scary Movie 2,2001-07-04,2001,7,114723897,71277420,Comedy,No,0.0,25,0.0,3 wins & 4 nominations.,29.0,5.3,15%,R,Keenen Ivory Wayans,83 min,Miramax/Dimension,"USA, Canada"
@@ -1088,7 +1088,7 @@ She's All That,1999-01-29,1999,1,113813161,63465522,Romantic Comedy,No,0.0,23,0.
 The Sword and the Sorcerer,1982-04-23,1982,4,113763521,36714025,Action,No,0.0,23,0.0,1 win & 5 nominations.,39.0,5.6,71%,R,Albert Pyun,99 min,Group 1,USA
 Taps,1981-12-09,1981,12,113755859,35856053,Drama,No,0.0,23,0.0,,49.0,6.8,68%,PG,Harold Becker,126 min,20th Century Fox,USA
 This is the End,2013-06-12,2013,6,113701536,101470202,Comedy,No,0.0,25,0.0,10 wins & 20 nominations.,67.0,6.6,83%,R,"Evan Goldberg, Seth Rogen",107 min,Sony Pictures,USA
-Friday the 13th Part 3,1982-08-13 00:00:00,1982,8,113689284,36690067,Horror,No,0.0,23,0.0,2 nominations.,30,5.7,11%,R,Steve Miner,95 min,Paramount Pictures,USA
+Friday the 13th Part 3,1982-08-13,1982,8,113689284,36690067,Horror,No,0.0,23,0.0,2 nominations.,30.0,5.7,11%,R,Steve Miner,95 min,Paramount Pictures,USA
 Major League,1989-04-07,1989,4,113687899,49793054,Comedy,No,0.0,23,0.0,1 nomination.,62.0,7.2,83%,R,David S. Ward,107 min,Paramount Pictures,USA
 Old School,2003-02-21,2003,2,113542622,75155000,Comedy,No,0.0,25,0.0,5 nominations.,54.0,7.1,60%,R,Todd Phillips,88 min,Dreamworks SKG,USA
 Eight Below,2006-02-17,2006,2,113509990,81612565,Adventure,No,0.0,25,0.0,2 wins & 2 nominations.,64.0,7.3,72%,PG,Frank Marshall,120 min,Walt Disney,USA
@@ -1123,7 +1123,7 @@ Olympus Has Fallen,2013-03-22,2013,3,110852439,98927592,Thriller/Suspense,No,0.0
 Revenge of the Nerds,1984-07-20,1984,7,110823287,40874452,Comedy,No,0.0,23,0.0,,44.0,6.6,70%,R,Jeff Kanew,90 min,20th Century Fox,USA
 Pineapple Express,2008-08-06,2008,8,110818932,87341380,Comedy,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 2 wins & 14 nominations.,64.0,6.9,64/100,R,David Gordon Green,111 min,Sony Pictures,USA
 The Man in the Iron Mask,1998-03-13,1998,3,110656719,56968169,Adventure,No,0.0,24,0.0,3 wins & 4 nominations.,48.0,6.5,32%,PG-13,Randall Wallace,132 min,MGM,"France, USA"
-Garfield: The Movie,2004-06-11 00:00:00,2004,6,110563551,75367693,Adventure,No,0.0,25,0.0,1 win & 1 nomination.,27,5.0,15%,PG,Peter Hewitt,80 min,20th Century Fox,USA
+Garfield: The Movie,2004-06-11,2004,6,110563551,75367693,Adventure,No,0.0,25,0.0,1 win & 1 nomination.,27.0,5.0,15%,PG,Peter Hewitt,80 min,20th Century Fox,USA
 Oliver & Company,1988-11-18,1988,11,110502779,49576671,Adventure,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 1 win & 2 nominations.,58.0,6.7,51%,G,George Scribner,74 min,Walt Disney,USA
 Godzilla: King of the Monsters,2019-05-31,2019,5,110500138,110500138,Action,No,0.0,25,0.0,6 wins & 13 nominations.,48.0,6.0,43%,PG-13,Michael Dougherty,132 min,Warner Bros.,"USA, Japan, China, Canada"
 Ray,2004-10-29,2004,10,110303916,75305995,Drama,Yes,2.0,25,8.0,Won 2 Oscars. Another 52 wins & 54 nominations.,73.0,7.7,80%,PG-13,Taylor Hackford,152 min,Universal,USA
@@ -1131,17 +1131,17 @@ Sommersby,1993-02-05,1993,2,110204572,50081992,Drama,No,0.0,23,0.0,2 wins.,,6.2,
 Best Friends,1982-12-17,1982,12,110125497,36670556,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 1 nomination.,70.0,5.4,62%,PG,Norman Jewison,116 min,Warner Bros.,USA
 Sex and the City 2,2010-05-27,2010,5,110090934,95347692,Comedy,No,0.0,25,0.0,8 wins & 9 nominations.,27.0,4.5,16%,R,Michael Patrick King,146 min,Warner Bros.,USA
 Last Action Hero,1993-06-18,1993,6,110060224,50016394,Action,No,0.0,23,0.0,1 win & 16 nominations.,44.0,6.4,36%,PG-13,John McTiernan,130 min,Sony Pictures,USA
-La marche de l'empereur,2005-06-24 00:00:00,2005,6,110055086,77437223,Documentary,Yes,1.0,25,4.0,Won 1 Oscar. Another 21 wins & 15 nominations.,79,7.5,94%,G,Luc Jacquet,80 min,Warner Independent,France
+La marche de l'empereur,2005-06-24,2005,6,110055086,77437223,Documentary,Yes,1.0,25,4.0,Won 1 Oscar. Another 21 wins & 15 nominations.,79.0,7.5,94%,G,Luc Jacquet,80 min,Warner Independent,France
 Madea Goes To Jail,2009-02-20,2009,2,109937458,90508336,Comedy,No,0.0,25,0.0,1 win & 4 nominations.,50.0,4.5,27%,PG-13,Tyler Perry,103 min,Lionsgate,USA
 2010,1984-12-07,1984,12,109870727,41000000,Thriller/Suspense,No,0.0,23,0.0,Nominated for 5 Oscars. Another 1 win & 3 nominations.,53.0,6.8,66%,PG,Peter Hyams,116 min,MGM,USA
 Sleepers,1996-10-18,1996,10,109826580,53300852,Drama,No,0.0,24,0.0,Nominated for 1 Oscar. Another 1 win & 4 nominations.,49.0,7.6,73%,R,Barry Levinson,147 min,Warner Bros.,USA
 Baby Driver,2017-06-28,2017,6,109508759,107825862,Thriller/Suspense,No,0.0,25,0.0,Nominated for 3 Oscars. Another 42 wins & 62 nominations.,86.0,7.6,93%,R,Edgar Wright,113 min,Sony Pictures,"UK, USA"
 The Book of Eli,2010-01-15,2010,1,109499039,94835059,Action,No,0.0,25,0.0,3 wins & 16 nominations.,53.0,6.9,47%,R,"Albert Hughes, Allen Hughes",118 min,Warner Bros.,USA
-A Nightmare on Elm Street 4: The Drea…,1988-08-19 00:00:00,1988,8,109430595,49369899,Horror,No,0.0,23,0.0,2 wins & 9 nominations.,56,5.7,55%,R,Renny Harlin,93 min,New Line,USA
+A Nightmare on Elm Street 4: The Drea…,1988-08-19,1988,8,109430595,49369899,Horror,No,0.0,23,0.0,2 wins & 9 nominations.,56.0,5.7,55%,R,Renny Harlin,93 min,New Line,USA
 Ladder 49,2004-10-01,2004,10,109321130,74541707,Action,No,0.0,25,0.0,1 win & 7 nominations.,47.0,6.5,41%,PG-13,Jay Russell,115 min,Walt Disney,USA
 Yentl,1983-11-18,1983,11,109150536,39012241,Musical,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 5 wins & 15 nominations.,68.0,6.6,65%,PG,Barbra Streisand,133 min,MGM/UA Classics,"UK, USA"
 Spawn,1997-07-31,1997,7,109121502,54979992,Action,No,0.0,24,0.0,2 wins & 6 nominations.,34.0,5.3,18%,PG-13,Mark A.Z. Dippé,96 min,New Line,USA
-The Divine Secrets of the Ya-Ya Siste…,2002-06-07 00:00:00,2002,6,109110734,69586544,Comedy,No,0.0,25,0.0,1 win & 7 nominations.,48,6.1,45%,PG-13,Callie Khouri,116 min,Warner Bros.,USA
+The Divine Secrets of the Ya-Ya Siste…,2002-06-07,2002,6,109110734,69586544,Comedy,No,0.0,25,0.0,1 win & 7 nominations.,48.0,6.1,45%,PG-13,Callie Khouri,116 min,Warner Bros.,USA
 The Jackal,1997-11-14,1997,11,108999437,54956941,Thriller/Suspense,No,0.0,24,0.0,1 win & 4 nominations.,36.0,6.4,23%,R,Michael Caton-Jones,124 min,Universal,"USA, UK, France, Germany, Japan"
 Beowulf,2007-11-16,2007,11,108890509,82280579,Adventure,No,0.0,25,0.0,3 wins & 17 nominations.,59.0,6.2,71%,PG-13,Robert Zemeckis,115 min,Paramount Pictures,"USA, UK"
 Bridge to Terabithia,2007-02-16,2007,2,108888514,82234139,Drama,No,0.0,25,0.0,6 wins & 5 nominations.,74.0,7.1,85%,PG,Gabor Csupo,96 min,Walt Disney,USA
@@ -1159,7 +1159,7 @@ The Ugly Truth,2009-07-24,2009,7,108002339,88915214,Romantic Comedy,No,0.0,25,0.
 Snake Eyes,1998-08-07,1998,8,107982452,55591409,Thriller/Suspense,No,0.0,24,0.0,1 win & 3 nominations.,52.0,6.0,41%,R,Brian De Palma,98 min,Paramount Pictures,"USA, Canada"
 Constantine,2005-02-18,2005,2,107978616,75976178,Action,No,0.0,25,0.0,2 wins & 10 nominations.,50.0,7.0,46%,R,Francis Lawrence,121 min,Warner Bros.,"USA, Germany"
 The Ring Two,2005-03-18,2005,3,107929659,75941727,Horror,No,0.0,25,0.0,2 wins & 11 nominations.,44.0,5.4,20%,PG-13,Hideo Nakata,110 min,Dreamworks SKG,USA
-The Conjuring 2: The Enfield Poltergeist,2016-06-10 00:00:00,2016,6,107919283,102470008,Horror,No,0.0,25,0.0,4 wins & 13 nominations.,65,7.3,80%,R,James Wan,134 min,Warner Bros.,"Canada, USA, UK"
+The Conjuring 2: The Enfield Poltergeist,2016-06-10,2016,6,107919283,102470008,Horror,No,0.0,25,0.0,4 wins & 13 nominations.,65.0,7.3,80%,R,James Wan,134 min,Warner Bros.,"Canada, USA, UK"
 The Fighter,2010-12-10,2010,12,107817579,93617009,Drama,Yes,2.0,25,8.0,Won 2 Oscars. Another 72 wins & 123 nominations.,79.0,7.8,90%,R,David O. Russell,116 min,Paramount Pictures,USA
 What Dreams May Come,1998-10-02,1998,10,107775846,55485043,Drama,Yes,1.0,24,4.166666666666666,Won 1 Oscar. Another 6 wins & 2 nominations.,44.0,7.1,54%,PG-13,Vincent Ward,113 min,Polygram,"USA, New Zealand"
 Little Women,1994-12-21,1994,12,107564676,50003303,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 72 wins & 185 nominations.,91.0,7.9,94%,PG,Greta Gerwig,135 min,Sony Pictures,USA
@@ -1170,9 +1170,9 @@ Small Soldiers,1998-07-10,1998,7,107113048,55143823,Adventure,No,0.0,24,0.0,3 wi
 "See No Evil, Hear No Evil",1989-05-12,1989,5,107082447,46900000,Comedy,No,0.0,23,0.0,,44.0,6.9,28%,R,Arthur Hiller,103 min,Sony Pictures,USA
 Disturbia,2007-04-13,2007,4,107014651,80818974,Thriller/Suspense,No,0.0,25,0.0,4 wins & 6 nominations.,62.0,6.8,69%,PG-13,D.J. Caruso,105 min,Paramount Pictures,USA
 Police Academy 3: Back in Training,1986-03-21,1986,3,107009750,43579163,Comedy,No,0.0,23,0.0,1 win.,33.0,5.4,40%,PG,Jerry Paris,83 min,Warner Bros.,"Canada, USA"
-Austin Powers: International Man of M…,1997-05-02 00:00:00,1997,5,106946216,53883989,Comedy,No,0.0,24,0.0,3 wins & 8 nominations.,51,7.0,71%,PG-13,Jay Roach,89 min,New Line,USA
+Austin Powers: International Man of M…,1997-05-02,1997,5,106946216,53883989,Comedy,No,0.0,24,0.0,3 wins & 8 nominations.,51.0,7.0,71%,PG-13,Jay Roach,89 min,New Line,USA
 The Land Before Time,1988-11-18,1988,11,106931659,48092846,Adventure,No,0.0,23,0.0,2 nominations.,66.0,7.4,70%,G,Don Bluth,69 min,Universal,"USA, Ireland"
-Halloween: H2O,1998-08-05 00:00:00,1998,8,106914760,55041738,Horror,No,0.0,24,0.0,2 wins & 12 nominations.,52,5.8,52%,R,Steve Miner,86 min,Miramax,USA
+Halloween: H2O,1998-08-05,1998,8,106914760,55041738,Horror,No,0.0,24,0.0,2 wins & 12 nominations.,52.0,5.8,52%,R,Steve Miner,86 min,Miramax,USA
 White Nights,1985-11-22,1985,11,106832560,42160849,Thriller/Suspense,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 2 wins & 2 nominations.,46.0,6.7,46%,PG-13,Taylor Hackford,136 min,Sony Pictures,USA
 Bugsy,1991-12-13,1991,12,106794781,49103967,Drama,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 10 wins & 41 nominations.,80.0,6.8,85%,R,Barry Levinson,136 min,Sony/TriStar,USA
 The Exorcism of Emily Rose,2005-09-09,2005,9,106694234,75072454,Horror,No,0.0,25,0.0,4 wins & 9 nominations.,46.0,6.7,20%,PG-13,Scott Derrickson,119 min,Sony Pictures,USA
@@ -1183,7 +1183,7 @@ The Town,2010-09-17,2010,9,106440593,92186262,Drama,No,0.0,25,0.0,Nominated for 
 Pale Rider,1985-06-28,1985,6,106267676,41410568,Western,No,0.0,23,0.0,2 wins & 1 nomination.,61.0,7.3,93%,R,Clint Eastwood,115 min,Warner Bros.,USA
 The Net,1995-07-28,1995,7,106014710,50621733,Thriller/Suspense,No,0.0,24,0.0,2 wins & 1 nomination.,51.0,5.9,40%,PG-13,Irwin Winkler,114 min,Sony Pictures,USA
 Pitch Perfect 3,2017-12-22,2017,12,105885484,104897530,Comedy,No,0.0,25,0.0,4 wins & 6 nominations.,40.0,5.8,30%,PG-13,Trish Sie,93 min,Universal,USA
-Kill Bill: Volume 1,2003-10-10 00:00:00,2003,10,105883416,70098138,Action,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 28 wins & 102 nominations.,69,8.1,85%,R,Quentin Tarantino,111 min,Miramax,"USA, Japan"
+Kill Bill: Volume 1,2003-10-10,2003,10,105883416,70098138,Action,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 28 wins & 102 nominations.,69.0,8.1,85%,R,Quentin Tarantino,111 min,Miramax,"USA, Japan"
 Four Brothers,2005-08-12,2005,8,105872667,74494381,Drama,No,0.0,25,0.0,5 wins & 9 nominations.,49.0,6.8,49/100,R,John Singleton,109 min,Paramount Pictures,USA
 Dragonheart,1996-05-31,1996,5,105867018,51364680,Adventure,No,0.0,24,0.0,Nominated for 1 Oscar. Another 3 wins & 7 nominations.,,6.5,50%,PG-13,Rob Cohen,103 min,Universal,USA
 The LEGO Movie 2: The Second Part,2019-02-08,2019,2,105806510,105806508,Adventure,No,0.0,25,0.0,1 win & 15 nominations.,65.0,6.6,85%,PG,Mike Mitchell,107 min,Warner Bros.,"Denmark, Norway, Australia, USA"
@@ -1200,7 +1200,7 @@ Up Close & Personal,1996-03-01,1996,3,105209778,51045801,Drama,No,0.0,24,0.0,Nom
 Pee Wee's Big Adventure,1985-07-26,1985,7,105061804,40940662,Adventure,No,0.0,23,0.0,2 nominations.,47.0,7.0,87%,PG,Tim Burton,91 min,Warner Bros.,USA
 Hustlers,2019-09-13,2019,9,104963598,104963598,Black Comedy,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 20 wins & 67 nominations.,79.0,6.3,87%,R,Lorene Scafaria,110 min,STX Entertainment,USA
 Full Metal Jacket,1987-06-26,1987,6,104883822,45015999,Drama,No,0.0,23,0.0,Nominated for 1 Oscar. Another 8 wins & 13 nominations.,76.0,8.3,91%,R,Stanley Kubrick,116 min,Warner Bros.,"UK, USA"
-Prince of Persia: Sands of Time,2010-05-28 00:00:00,2010,5,104793487,90759676,Action,No,0.0,25,0.0,1 win & 11 nominations.,50,6.6,37%,PG-13,Mike Newell,116 min,Walt Disney,USA
+Prince of Persia: Sands of Time,2010-05-28,2010,5,104793487,90759676,Action,No,0.0,25,0.0,1 win & 11 nominations.,50.0,6.6,37%,PG-13,Mike Newell,116 min,Walt Disney,USA
 Black Rain,1989-09-22,1989,9,104781462,45892212,Thriller/Suspense,No,0.0,23,0.0,Nominated for 2 Oscars. Another 1 win & 2 nominations.,56.0,6.7,50%,R,Ridley Scott,125 min,Paramount Pictures,USA
 An American Werewolf in London,1981-08-21,1981,8,104775640,31973249,Horror,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 2 wins & 3 nominations.,60.0,7.5,87%,R,John Landis,97 min,Universal,"UK, USA"
 Think Like a Man,2012-04-20,2012,4,104773245,91547205,Romantic Comedy,No,0.0,25,0.0,4 wins & 13 nominations.,51.0,6.6,54%,PG-13,Tim Story,122 min,Sony Pictures,USA
@@ -1209,7 +1209,7 @@ A Walk in the Clouds,1995-08-11,1995,8,104729690,50008143,Drama,Yes,1.0,24,4.166
 Brewster's Millions,1985-05-22,1985,5,104700838,40800000,Comedy,No,0.0,23,0.0,,37.0,6.5,35%,PG,Walter Hill,102 min,Universal,USA
 Murder on the Orient Express,2017-11-10,2017,11,104396965,102826543,Drama,No,0.0,25,0.0,1 win & 23 nominations.,52.0,6.5,61%,PG-13,Kenneth Branagh,114 min,20th Century Fox,"Malta, USA"
 The River Wild,1994-09-30,1994,9,104380531,46815000,Action,No,0.0,23,0.0,Nominated for 2 Golden Globes. Another 2 nominations.,,6.4,56%,PG-13,Curtis Hanson,111 min,Universal,USA
-A Nightmare On Elm Street 3: Dream Wa…,1987-02-27 00:00:00,1987,2,104364770,44793222,Horror,No,0.0,23,0.0,1 win & 4 nominations.,49,6.6,74%,R,Chuck Russell,96 min,New Line,USA
+A Nightmare On Elm Street 3: Dream Wa…,1987-02-27,1987,2,104364770,44793222,Horror,No,0.0,23,0.0,1 win & 4 nominations.,49.0,6.6,74%,R,Chuck Russell,96 min,New Line,USA
 Red,2010-10-15,2010,10,104350194,90380162,Action,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 4 wins & 18 nominations.,60.0,7.0,72%,PG-13,Robert Schwentke,111 min,Summit Entertainment,"USA, China"
 Elysium,2013-08-09,2013,8,104266483,93050117,Action,No,0.0,25,0.0,1 win & 10 nominations.,61.0,6.6,65%,R,Neill Blomkamp,109 min,Sony Pictures,"USA, Mexico, Canada"
 Valkyrie,2008-12-25,2008,12,104236174,83107829,Thriller/Suspense,No,0.0,25,0.0,2 wins & 11 nominations.,56.0,7.1,62%,PG-13,Bryan Singer,121 min,United Artists,"USA, Germany, Italy, Spain, France, Japan"
@@ -1232,7 +1232,7 @@ City Heat,1984-12-07,1984,12,102900994,38348988,Action,No,0.0,23,0.0,1 nominatio
 Sausage Party,2016-08-12,2016,8,102864381,97670358,Comedy,No,0.0,25,0.0,1 win & 24 nominations.,66.0,6.1,83%,R,"Greg Tiernan, Conrad Vernon",89 min,Sony Pictures,"USA, Canada"
 The Terminator,1984-10-26,1984,10,102800255,38019031,Action,No,0.0,23,0.0,7 wins & 6 nominations.,84.0,8.0,100%,R,James Cameron,107 min,Orion Pictures,"UK, USA"
 Sideways,2004-10-22,2004,10,102645750,71502303,Drama,Yes,1.0,25,4.0,Won 1 Oscar. Another 122 wins & 89 nominations.,94.0,7.5,97%,R,Alexander Payne,127 min,Fox Searchlight,"USA, Hungary"
-Percy Jackson & the Olympians: The Li…,2010-02-12 00:00:00,2010,2,102494196,88768303,Adventure,No,0.0,25,0.0,11 nominations.,47,5.9,49%,PG,Chris Columbus,118 min,20th Century Fox,"UK, Canada, USA"
+Percy Jackson & the Olympians: The Li…,2010-02-12,2010,2,102494196,88768303,Adventure,No,0.0,25,0.0,11 nominations.,47.0,5.9,49%,PG,Chris Columbus,118 min,20th Century Fox,"UK, Canada, USA"
 Monster House,2006-07-21,2006,7,102450650,73661010,Adventure,No,0.0,25,0.0,Nominated for 1 Oscar. Another 4 wins & 22 nominations.,68.0,6.6,75%,PG,Gil Kenan,91 min,Sony Pictures,USA
 Bustin' Loose,1981-05-22,1981,5,102441622,31261000,Comedy,No,0.0,23,0.0,2 wins.,55.0,6.1,60%,R,"Oz Scott, Michael Schultz",94 min,Universal,USA
 Non-Stop,2014-02-28,2014,2,102297557,91742160,Action,No,0.0,25,0.0,1 nomination.,56.0,6.9,62%,PG-13,Jaume Collet-Serra,106 min,Universal,"UK, France, USA, Canada"
@@ -1250,9 +1250,9 @@ Jumper,2008-02-14,2008,2,101722579,80172128,Adventure,No,0.0,25,0.0,2 wins & 4 n
 Cloverfield,2008-01-18,2008,1,101565632,80048433,Action,No,0.0,25,0.0,5 wins & 30 nominations.,64.0,7.0,77%,PG-13,Matt Reeves,85 min,Paramount Pictures,USA
 Peggy Sue Got Married,1986-10-10,1986,10,101370022,41382841,Comedy,No,0.0,23,0.0,Nominated for 3 Oscars. Another 4 wins & 8 nominations.,74.0,6.3,86%,PG-13,Francis Ford Coppola,103 min,Sony/TriStar,USA
 Malice,1993-10-01,1993,10,101307236,46038636,Thriller/Suspense,No,0.0,23,0.0,2 wins.,52.0,6.4,59%,R,Harold Becker,107 min,Sony Pictures,"Canada, USA"
-Barnyard: The Original Party Animals,2006-08-04 00:00:00,2006,8,101223916,72779000,Adventure,No,0.0,25,0.0,3 nominations.,42,5.5,22%,PG,Steve Oedekerk,90 min,Paramount Pictures,"USA, Germany, Netherlands"
+Barnyard: The Original Party Animals,2006-08-04,2006,8,101223916,72779000,Adventure,No,0.0,25,0.0,3 nominations.,42.0,5.5,22%,PG,Steve Oedekerk,90 min,Paramount Pictures,"USA, Germany, Netherlands"
 Jackass: Number Two,2006-09-22,2006,9,101223515,72778712,Comedy,No,0.0,25,0.0,1 nomination.,66.0,7.0,64%,R,Jeff Tremaine,92 min,Paramount Pictures,USA
-Disney Planes,2013-08-09 00:00:00,2013,8,101165347,90282580,Adventure,No,0.0,25,0.0,1 nomination.,72,7.6,91%,R,John Hughes,93 min,Walt Disney,USA
+Disney Planes,2013-08-09,2013,8,101165347,90282580,Adventure,No,0.0,25,0.0,1 nomination.,72.0,7.6,91%,R,John Hughes,93 min,Walt Disney,USA
 Rampage,2018-04-13,2018,4,101028233,101028233,Action,No,0.0,25,0.0,7 nominations.,45.0,6.1,51%,PG-13,Brad Peyton,107 min,Warner Bros.,USA
 Goodfellas,1990-09-19,1990,9,100974830,46743809,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 43 wins & 38 nominations.,90.0,8.7,96%,R,Martin Scorsese,146 min,Warner Bros.,USA
 Tomorrowland,2015-05-22,2015,5,100973290,93436322,Adventure,No,0.0,25,0.0,2 wins & 19 nominations.,60.0,6.4,50%,PG,Brad Bird,130 min,Walt Disney,"USA, Spain, France, Canada, UK"
@@ -1305,7 +1305,7 @@ The Addams Family,2019-10-11,2019,10,97185807,97185807,Adventure,No,0.0,25,0.0,N
 Knowing,2009-03-20,2009,3,97121865,79957634,Thriller/Suspense,No,0.0,25,0.0,1 win & 5 nominations.,41.0,6.2,33%,PG-13,Alex Proyas,121 min,Summit Entertainment,"USA, UK, Australia, China"
 St. Elmo’s Fire,1985-06-28,1985,6,97002251,37800000,Drama,No,0.0,23,0.0,1 win & 1 nomination.,35.0,6.4,44%,R,Joel Schumacher,110 min,Sony Pictures,USA
 Terminator: Genisys,2015-07-01,2015,7,97001458,89760956,Action,No,0.0,25,0.0,9 nominations.,38.0,6.3,27%,PG-13,Alan Taylor,126 min,Paramount Pictures,"USA, Canada"
-City Slickers II: The Legend of Curly…,1994-06-10 00:00:00,1994,6,96996812,43440947,Comedy,No,0.0,23,0.0,2 nominations.,43,5.6,18%,PG-13,Paul Weiland,116 min,Sony Pictures,USA
+City Slickers II: The Legend of Curly…,1994-06-10,1994,6,96996812,43440947,Comedy,No,0.0,23,0.0,2 nominations.,43.0,5.6,18%,PG-13,Paul Weiland,116 min,Sony Pictures,USA
 "Crazy, Stupid, Love",2011-07-29,2011,7,96902824,84351197,Comedy,No,0.0,25,0.0,Nominated for 1 Golden Globe. Another 3 wins & 22 nominations.,68.0,7.4,79%,PG-13,"Glenn Ficarra, John Requa",118 min,Warner Bros.,USA
 Downton Abbey,2019-09-20,2019,9,96853867,96853865,Drama,No,0.0,25,0.0,2 wins & 17 nominations.,64.0,7.4,84%,PG,Michael Engler,122 min,Focus Features,"UK, USA"
 Neighbors,1981-12-18,1981,12,96785806,29916207,Comedy,No,0.0,23,0.0,6 wins & 11 nominations.,68.0,6.3,73%,R,Nicholas Stoller,97 min,Columbia,USA
@@ -1347,13 +1347,13 @@ Behind Enemy Lines,2001-11-30,2001,11,94516751,58855732,Action,No,0.0,25,0.0,1 w
 Tammy,2014-07-02,2014,7,94250511,84525432,Comedy,No,0.0,25,0.0,1 win & 7 nominations.,39.0,4.9,24%,R,Ben Falcone,97 min,Warner Bros.,USA
 Dirty Rotten Scoundrels,1988-12-14,1988,12,94124675,42039000,Comedy,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 1 win.,68.0,7.4,89%,PG,Frank Oz,110 min,Orion Pictures,USA
 One Fine Day,1996-12-20,1996,12,94101189,46169663,Romantic Comedy,No,0.0,24,0.0,Nominated for 1 Oscar. Another 4 wins & 5 nominations.,,6.5,50%,PG,Michael Hoffman,108 min,20th Century Fox,USA
-Don’t Breathe,2016-08-26 00:00:00,2016,8,93962408,89217875,Horror,No,0.0,25,0.0,7 wins & 21 nominations.,71,7.1,88%,R,Fede Alvarez,88 min,Sony Pictures,"USA, Hungary"
+Don’t Breathe,2016-08-26,2016,8,93962408,89217875,Horror,No,0.0,25,0.0,7 wins & 21 nominations.,71.0,7.1,88%,R,Fede Alvarez,88 min,Sony Pictures,"USA, Hungary"
 Places in the Heart,1984-09-21,1984,9,93888872,34900814,Drama,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 11 wins & 14 nominations.,70.0,7.4,89%,PG,Robert Benton,111 min,Sony/TriStar,USA
 Herbie: Fully Loaded,2005-06-22,2005,6,93815491,66010682,Adventure,No,0.0,25,0.0,2 wins & 6 nominations.,47.0,4.8,41%,G,Angela Robinson,101 min,Walt Disney,USA
 The World According to Garp,1982-07-23,1982,7,93601606,30207324,Comedy,No,0.0,23,0.0,Nominated for 2 Oscars. Another 5 wins & 4 nominations.,63.0,7.2,78%,R,George Roy Hill,136 min,Warner Bros.,USA
 Point Break,1991-07-12,1991,7,93520072,43218387,Action,No,0.0,23,0.0,1 win & 2 nominations.,58.0,7.3,69%,R,Kathryn Bigelow,122 min,20th Century Fox,"Japan, USA"
 Blade Runner 2049,2017-10-06,2017,10,93484661,92054159,Thriller/Suspense,Yes,2.0,25,8.0,Won 2 Oscars. Another 97 wins & 159 nominations.,81.0,8.0,87%,R,Denis Villeneuve,164 min,Warner Bros.,"USA, UK, Hungary, Canada, Spain"
-John Wick: Chapter Two,2017-02-10 00:00:00,2017,2,93465530,92029184,Action,No,0.0,25,0.0,4 wins & 6 nominations.,75,7.5,89%,R,Chad Stahelski,122 min,Lionsgate,"USA, Italy, Hong Kong, Canada"
+John Wick: Chapter Two,2017-02-10,2017,2,93465530,92029184,Action,No,0.0,25,0.0,4 wins & 6 nominations.,75.0,7.5,89%,R,Chad Stahelski,122 min,Lionsgate,"USA, Italy, Hong Kong, Canada"
 Marked for Death,1990-04-18,1990,4,93311653,43224499,Action,No,0.0,23,0.0,,49.0,6.0,20%,R,Dwight H. Little,93 min,20th Century Fox,USA
 Little Shop of Horrors,1986-12-19,1986,12,93247254,38747385,Musical,No,0.0,23,0.0,Nominated for 2 Oscars. Another 2 wins & 12 nominations.,81.0,7.0,90%,PG-13,Frank Oz,94 min,Warner Bros.,USA
 The Beverly Hillbillies,1993-10-15,1993,10,93081197,42222647,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,37.0,5.0,22%,PG,Penelope Spheeris,92 min,20th Century Fox,USA
@@ -1389,7 +1389,7 @@ Commando,1985-10-04,1985,10,90006736,35073978,Action,No,0.0,23,0.0,2 nominations
 Bewitched,2005-06-24,2005,6,89981720,63313159,Comedy,No,0.0,25,0.0,2 wins & 13 nominations.,34.0,4.8,25%,PG-13,Nora Ephron,102 min,Sony Pictures,USA
 Gung Ho,1986-03-14,1986,3,89900741,36611610,Comedy,No,0.0,23,0.0,1 win.,48.0,6.3,33%,PG-13,Ron Howard,111 min,Paramount Pictures,USA
 Gremlins 2: The New Batch,1990-06-15,1990,6,89537261,41476097,Comedy,No,0.0,23,0.0,6 nominations.,,6.4,71%,PG-13,"Joe Dante, Chuck Jones",106 min,Warner Bros.,USA
-Friday the 13th Part IV: The Final Ch…,1984-04-13 00:00:00,1984,4,89421373,32980880,Horror,No,0.0,23,0.0,2 nominations.,33,6.0,23%,R,Joseph Zito,91 min,Paramount Pictures,USA
+Friday the 13th Part IV: The Final Ch…,1984-04-13,1984,4,89421373,32980880,Horror,No,0.0,23,0.0,2 nominations.,33.0,6.0,23%,R,Joseph Zito,91 min,Paramount Pictures,USA
 The Piano,1993-11-12,1993,11,89057383,40157856,Drama,Yes,3.0,23,13.043478260869565,Won 3 Oscars. Another 60 wins & 56 nominations.,89.0,7.6,92%,R,Jane Campion,121 min,Miramax,"New Zealand, Australia, France, USA"
 The Killing Fields,1984-11-02,1984,11,89033506,34609720,Drama,Yes,3.0,23,13.043478260869565,Won 3 Oscars. Another 24 wins & 22 nominations.,76.0,7.8,93%,R,Roland Joffé,141 min,Warner Bros.,UK
 Big Business,1988-06-10,1988,6,88995353,40150487,Comedy,No,0.0,23,0.0,1 win & 1 nomination.,53.0,6.4,44%,PG,Jim Abrahams,97 min,Walt Disney,USA
@@ -1499,7 +1499,7 @@ Freddy’s Dead: The Final Nightmare,1991-09-13,1991,9,75459433,34872033,Horror,
 White Fang,1991-01-18,1991,1,75150121,34729091,Adventure,No,0.0,23,0.0,1 win.,62.0,6.7,65%,PG,Randal Kleiser,107 min,Walt Disney,USA
 Teachers,1984-10-05,1984,10,75103268,27700000,Drama,No,0.0,23,0.0,,39.0,6.1,67%,R,Arthur Hiller,107 min,MGM/UA Classics,USA
 The Lost Boys,1987-07-31,1987,7,75076102,32222567,Horror,No,0.0,23,0.0,3 wins & 5 nominations.,63.0,7.3,76%,R,Joel Schumacher,97 min,Warner Bros.,USA
-In Search of Historic Jesus,1980-01-01 00:00:00,1980,1,74505570,22000000,,No,0.0,22,0.0,N/A,N/A,4.7,,G,Henning Schellerup,91 min,Sunn Classics Pictures,USA
+In Search of Historic Jesus,1980-01-01,1980,1,74505570,22000000,,No,0.0,22,0.0,,,4.7,,G,Henning Schellerup,91 min,Sunn Classics Pictures,USA
 The Doors,1991-03-01,1991,3,74474551,34416893,Drama,No,0.0,23,0.0,3 nominations.,62.0,7.2,57%,R,Oliver Stone,140 min,Sony Pictures,"USA, France"
 The Outsiders,1983-03-25,1983,3,74319225,25697647,Drama,No,0.0,23,0.0,1 win & 3 nominations.,41.0,7.1,63%,PG,Francis Ford Coppola,91 min,Warner Bros.,"USA, France"
 Set It Off,1996-11-06,1996,11,74192660,36049108,Drama,No,0.0,24,0.0,5 wins & 6 nominations.,,6.9,67%,R,F. Gary Gray,123 min,New Line,USA
@@ -1508,9 +1508,9 @@ The French Lieutenant's Woman,1981-09-18,1981,9,74059709,22600000,Drama,No,0.0,2
 Child's Play,1988-11-09,1988,11,73988742,33244684,Horror,No,0.0,23,0.0,2 wins & 3 nominations.,58.0,6.6,71%,R,Tom Holland,87 min,United Artists,USA
 The Accidental Tourist,1988-12-23,1988,12,73931394,32632000,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 3 wins & 11 nominations.,53.0,6.8,81%,PG,Lawrence Kasdan,121 min,Warner Bros.,USA
 Dune,1984-12-14,1984,12,73899127,27447471,Action,No,0.0,23,0.0,Nominated for 1 Oscar. Another 2 wins & 4 nominations.,40.0,6.5,52%,PG-13,David Lynch,137 min,Universal,"USA, Mexico"
-Can’t Buy Me Love,1987-08-14 00:00:00,1987,8,73681097,31623833,Romantic Comedy,No,0.0,23,0.0,1 win & 3 nominations.,36,6.8,48%,PG-13,Steve Rash,94 min,Walt Disney,USA
+Can’t Buy Me Love,1987-08-14,1987,8,73681097,31623833,Romantic Comedy,No,0.0,23,0.0,1 win & 3 nominations.,36.0,6.8,48%,PG-13,Steve Rash,94 min,Walt Disney,USA
 Yesterday,2019-06-28,2019,6,73286652,73286650,Drama,No,0.0,25,0.0,1 win & 15 nominations.,55.0,6.8,63%,PG-13,Danny Boyle,116 min,Universal,"UK, Russia, Japan, USA"
-Tyler Perry’s A Madea Family Funeral,2019-03-01 00:00:00,2019,3,73257045,73257045,Comedy,No,0.0,25,0.0,7 nominations.,39,4.4,12%,PG-13,Tyler Perry,109 min,Lionsgate,USA
+Tyler Perry’s A Madea Family Funeral,2019-03-01,2019,3,73257045,73257045,Comedy,No,0.0,25,0.0,7 nominations.,39.0,4.4,12%,PG-13,Tyler Perry,109 min,Lionsgate,USA
 Sophie's Choice,1982-12-10,1982,12,73198668,25215547,Drama,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 12 wins & 12 nominations.,68.0,7.6,78%,R,Alan J. Pakula,150 min,Universal,"UK, USA"
 Zombieland: Double Tap,2019-10-18,2019,10,73118130,73118130,Comedy,No,0.0,25,0.0,3 nominations.,55.0,6.7,68%,R,Ruben Fleischer,99 min,Sony Pictures,USA
 The Princess Bride,1987-09-25,1987,9,71894435,30857000,Adventure,No,0.0,23,0.0,Nominated for 1 Oscar. Another 7 wins & 8 nominations.,77.0,8.1,97%,PG,Rob Reiner,98 min,20th Century Fox,USA
@@ -1523,7 +1523,7 @@ Desperately Seeking Susan,1985-03-29,1985,3,70313795,27400000,Comedy,No,0.0,23,0
 A Passage to India,1984-12-14,1984,12,69963424,27187653,Drama,Yes,2.0,23,8.695652173913043,Won 2 Oscars. Another 20 wins & 26 nominations.,78.0,7.3,79%,PG,David Lean,164 min,Sony Pictures,"UK, USA"
 Victor/Victoria,1982-03-19,1982,3,69795655,22524614,Musical,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 10 wins & 17 nominations.,84.0,7.6,97%,PG,Blake Edwards,134 min,MGM,"UK, USA"
 Protocol,1984-12-21,1984,12,69767824,26300000,Comedy,No,0.0,23,0.0,5 wins & 30 nominations.,73.0,7.4,94%,PG-13,Brad Bird,132 min,Warner Bros.,"USA, United Arab Emirates, Czech Republic, India, Canada"
-Spring Break,1983-03-25 00:00:00,1983,3,69616780,24071666,Comedy,No,0.0,23,0.0,N/A,17,5.0,22%,R,Sean S. Cunningham,102 min,Sony Pictures,USA
+Spring Break,1983-03-25,1983,3,69616780,24071666,Comedy,No,0.0,23,0.0,,17.0,5.0,22%,R,Sean S. Cunningham,102 min,Sony Pictures,USA
 The First Purge,2018-07-04,2018,7,69488748,69488745,Horror,No,0.0,25,0.0,,54.0,5.2,55%,R,Gerard McMurray,97 min,Universal,USA
 Harry and the Hendersons,1987-06-05,1987,6,69339936,29760613,Comedy,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 1 win & 7 nominations.,42.0,6.0,43%,PG,William Dear,110 min,Universal,USA
 The Muppets Take Manhattan,1984-07-13,1984,7,69232474,25534703,Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 2 nominations.,64.0,6.9,83%,G,Frank Oz,94 min,Sony/TriStar,USA
@@ -1550,7 +1550,7 @@ Outland,1981-05-22,1981,5,65539563,20000000,Action,No,0.0,23,0.0,Nominated for 1
 Things Are Tough All Over,1982-07-30,1982,7,65487800,21134374,Comedy,No,0.0,23,0.0,,40.0,6.0,40/100,R,Thomas K. Avildsen,90 min,Sony Pictures,USA
 My Tutor,1983-03-04,1983,3,65323036,22587000,Comedy,No,0.0,23,0.0,,17.0,5.2,17/100,R,George Bowers,97 min,Crown,USA
 Night Shift,1982-07-30,1982,7,65124274,21017056,Comedy,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 1 win.,62.0,6.6,92%,R,Ron Howard,106 min,Warner Bros.,USA
-La Guerre du feu,1982-02-12 00:00:00,1982,2,64946192,20959585,Adventure,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 10 wins & 7 nominations.,79,7.3,86%,R,Jean-Jacques Annaud,100 min,20th Century Fox,"Canada, France"
+La Guerre du feu,1982-02-12,1982,2,64946192,20959585,Adventure,Yes,1.0,23,4.3478260869565215,Won 1 Oscar. Another 10 wins & 7 nominations.,79.0,7.3,86%,R,Jean-Jacques Annaud,100 min,20th Century Fox,"Canada, France"
 Shoot to Kill,1988-02-12,1988,2,64944762,29300000,Action,No,0.0,23,0.0,2 nominations.,,6.8,100%,R,Roger Spottiswoode,110 min,Walt Disney,"USA, Canada"
 Wildcats,1986-02-14,1986,2,64544824,26285544,Comedy,No,0.0,23,0.0,2 nominations.,41.0,6.0,22%,R,Michael Ritchie,106 min,Warner Bros.,USA
 Green Card,1990-12-25,1990,12,64493106,29804169,Romantic Comedy,No,0.0,23,0.0,Nominated for 1 Oscar. Another 3 wins & 3 nominations.,58.0,6.2,60%,PG-13,Peter Weir,107 min,Walt Disney,"France, Australia, USA"
@@ -1559,7 +1559,7 @@ Heavy Metal,1981-08-07,1981,8,64134036,19571091,Adventure,No,0.0,23,0.0,4 wins &
 Fright Night,1985-08-02,1985,8,63955370,24922237,Horror,No,0.0,23,0.0,2 wins & 8 nominations.,64.0,6.3,72%,R,Craig Gillespie,106 min,Sony Pictures,USA
 Pacific Heights,1990-09-28,1990,9,63428812,29381956,Thriller/Suspense,No,0.0,23,0.0,,55.0,6.4,48%,R,John Schlesinger,102 min,20th Century Fox,USA
 Summer Rental,1985-08-09,1985,8,63310646,24671000,Comedy,No,0.0,23,0.0,3 nominations.,38.0,6.3,17%,PG,Carl Reiner,87 min,Paramount Pictures,USA
-The Beach Girls,1982-03-26 00:00:00,1982,3,63270462,20418789,Comedy,No,0.0,23,0.0,N/A,N/A,5.0,,R,Bud Townsend,91 min,Crown,USA
+The Beach Girls,1982-03-26,1982,3,63270462,20418789,Comedy,No,0.0,23,0.0,,,5.0,,R,Bud Townsend,91 min,Crown,USA
 Some Kind of Hero,1982-04-02,1982,4,63213743,20400486,Comedy,No,0.0,23,0.0,,68.0,5.8,40%,R,Michael Pressman,97 min,Paramount Pictures,USA
 Jumpin' Jack Flash,1986-10-10,1986,10,62831506,25587804,Comedy,No,0.0,23,0.0,2 nominations.,52.0,5.9,29%,R,Penny Marshall,105 min,20th Century Fox,USA
 The Emerald Forest,1985-07-03,1985,7,62791121,24468550,Drama,No,0.0,23,0.0,Nominated for 3 BAFTA Film Awards. Another 1 nomination.,,6.9,81%,R,John Boorman,114 min,Avco Embassy,UK
@@ -1573,7 +1573,7 @@ Cujo,1983-08-12,1983,8,61184928,21156152,Horror,No,0.0,23,0.0,1 win & 3 nominati
 Predator 2,1990-11-21,1990,11,61130933,28317513,Action,No,0.0,23,0.0,1 win & 4 nominations.,46.0,6.3,29%,R,Stephen Hopkins,108 min,20th Century Fox,USA
 The Man From Snowy River,1982-11-03,1982,11,61099877,20659423,Drama,No,0.0,23,0.0,Nominated for 1 Golden Globe. Another 2 wins & 2 nominations.,63.0,7.3,85%,PG,George Miller,102 min,20th Century Fox,Australia
 Hardly Working,1980-01-01,1980,1,60959100,18000000,,No,0.0,22,0.0,3 nominations.,,4.9,10%,PG,Jerry Lewis,91 min,20th Century Fox,USA
-Windwalker,1980-01-01 00:00:00,1980,1,60959100,18000000,,No,0.0,22,0.0,1 win.,N/A,7.0,,PG,Kieth Merrill,108 min,Pacific International,USA
+Windwalker,1980-01-01,1980,1,60959100,18000000,,No,0.0,22,0.0,1 win.,,7.0,,PG,Kieth Merrill,108 min,Pacific International,USA
 Santa Claus,1985-11-29,1985,11,60849498,23717291,Adventure,No,0.0,23,0.0,,,7.7,93%,TV-G,"Jules Bass, Arthur Rankin Jr.",48 min,Sony/TriStar,"USA, Japan"
 The Right Stuff,1983-10-21,1983,10,60769640,21500000,Action,Yes,4.0,23,17.391304347826086,Won 4 Oscars. Another 7 wins & 16 nominations.,91.0,7.8,96%,PG,Philip Kaufman,193 min,Warner Bros.,USA
 The Morning After,1986-12-25,1986,12,60536014,25147055,Thriller/Suspense,No,0.0,23,0.0,,,5.9,67%,R,Sidney Lumet,103 min,20th Century Fox,USA
@@ -1584,18 +1584,18 @@ Christine,1983-12-09,1983,12,59959888,21200000,Horror,No,0.0,23,0.0,2 nomination
 Deathtrap,1982-03-19,1982,3,59747962,19282000,Comedy,No,0.0,23,0.0,6 nominations.,54.0,7.0,71%,PG,Sidney Lumet,116 min,Warner Bros.,USA
 A Christmas Story,1983-11-18,1983,11,59501227,20605209,Comedy,No,0.0,23,0.0,3 wins & 11 nominations.,77.0,7.9,89%,PG,Bob Clark,94 min,MGM,"USA, Canada"
 Iron Eagle,1986-01-17,1986,1,59325176,24159872,Action,No,0.0,23,0.0,,41.0,5.5,20%,PG-13,Sidney J. Furie,117 min,Sony/TriStar,"USA, Israel, Canada"
-The Care Bears Movie,1985-03-29 00:00:00,1985,3,58853160,22934000,Adventure,No,0.0,23,0.0,1 win & 2 nominations.,N/A,5.6,,G,Arna Selznick,77 min,Samuel Goldwyn Films,"Canada, USA"
+The Care Bears Movie,1985-03-29,1985,3,58853160,22934000,Adventure,No,0.0,23,0.0,1 win & 2 nominations.,,5.6,,G,Arna Selznick,77 min,Samuel Goldwyn Films,"Canada, USA"
 The Great Mouse Detective,1986-07-02,1986,7,57963987,23605534,Adventure,No,0.0,23,0.0,1 win & 3 nominations.,73.0,7.2,79%,G,"Ron Clements, Burny Mattinson, David Michener, John Musker",74 min,Walt Disney,USA
 Breathless,1983-05-13,1983,5,57580985,19910002,Action,No,0.0,23,0.0,Nominated for 1 BAFTA Film Award. Another 4 wins & 3 nominations.,,7.9,97%,Not Rated,Jean-Luc Godard,90 min,Orion Pictures,France
 Herbie Goes Bananas,1980-01-01,1980,1,57572485,17000000,,No,0.0,22,0.0,2 nominations.,55.0,5.0,40%,G,Vincent McEveety,100 min,,USA
 Betrayed,1988-08-26,1988,8,57222634,25816139,Thriller/Suspense,No,0.0,23,0.0,,,6.3,42%,R,Costa-Gavras,127 min,United Artists,"USA, Japan"
 Funny Farm,1988-06-03,1988,6,56604393,25537221,Comedy,No,0.0,23,0.0,,50.0,6.2,65%,PG,George Roy Hill,101 min,Warner Bros.,USA
-Rough Cut,1980-06-19 00:00:00,1980,6,56407917,16656125,,No,0.0,22,0.0,N/A,58,5.7,58/100,PG,"Don Siegel, Peter R. Hunt, Robert Ellis Miller",112 min,Paramount Pictures,USA
+Rough Cut,1980-06-19,1980,6,56407917,16656125,,No,0.0,22,0.0,,58.0,5.7,58/100,PG,"Don Siegel, Peter R. Hunt, Robert Ellis Miller",112 min,Paramount Pictures,USA
 Dead Men Don't Wear Plaid,1982-05-21,1982,5,56383366,18196170,Comedy,No,0.0,23,0.0,,67.0,6.9,79%,PG,Carl Reiner,88 min,Universal,USA
-Friday the 13th Part V: A New Beginning,1985-03-22 00:00:00,1985,3,56277772,21930418,Horror,No,0.0,23,0.0,2 nominations.,16,4.8,15%,R,Danny Steinmann,92 min,Paramount Pictures,USA
+Friday the 13th Part V: A New Beginning,1985-03-22,1985,3,56277772,21930418,Horror,No,0.0,23,0.0,2 nominations.,16.0,4.8,15%,R,Danny Steinmann,92 min,Paramount Pictures,USA
 Alien Nation,1988-10-07,1988,10,55892929,25216243,Drama,No,0.0,23,0.0,1 win & 4 nominations.,45.0,6.3,53%,R,Graham Baker,91 min,20th Century Fox,USA
 The Black Cauldron,1985-07-24,1985,7,54630976,21288692,Adventure,No,0.0,23,0.0,,59.0,6.4,55%,PG,"Ted Berman, Richard Rich",80 min,Walt Disney,"USA, UK"
-A Nightmare on Elm Street Part 2: Fre…,1985-11-01 00:00:00,1985,11,54310987,21163999,Horror,No,0.0,23,0.0,1 nomination.,43,5.5,43%,R,Jack Sholder,87 min,New Line,USA
+A Nightmare on Elm Street Part 2: Fre…,1985-11-01,1985,11,54310987,21163999,Horror,No,0.0,23,0.0,1 nomination.,43.0,5.5,43%,R,Jack Sholder,87 min,New Line,USA
 Max Dugan Returns,1983-03-25,1983,3,50939995,17613720,Comedy,No,0.0,23,0.0,1 nomination.,,6.6,71%,PG,Herbert Ross,98 min,20th Century Fox,USA
 All the Right Moves,1983-10-21,1983,10,49743488,17200000,Drama,No,0.0,23,0.0,,62.0,5.9,52%,R,Michael Chapman,91 min,20th Century Fox,USA
 Valley Girl,1983-04-29,1983,4,48586664,16800000,Comedy,No,0.0,23,0.0,,66.0,6.4,66/100,R,Martha Coolidge,99 min,Atlantic,USA
